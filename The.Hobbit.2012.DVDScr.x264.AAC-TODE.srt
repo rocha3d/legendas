@@ -1,16 +1,16 @@
-1
+Ôªø1
 00:00:01,496 --> 00:00:03,592
 <b>JBarra | LaiLestrange
-PenÈlopeC | CHaandde</b>
+Pen√©lopeC | CHaandde</b>
 
 2
 00:00:03,593 --> 00:00:05,701
 <b>Lontra | Kcyre | RedLuigi
-Tom·s | SouthStar</b>
+Tom√°s | SouthStar</b>
 
 3
 00:00:05,702 --> 00:00:08,011
-<b>Tozzi | JotavÍ | NetoP
+<b>Tozzi | Jotav√™ | NetoP
 Alexray | MarceloLox</b>
 
 4
@@ -28,12 +28,12 @@ Time Pink | SahMatos | Elderfel</b>
 
 7
 00:01:10,991 --> 00:01:13,327
-<i>VocÍ me perguntou uma vez
-se j· lhe contei</i>
+<i>Voc√™ me perguntou uma vez
+se j√° lhe contei</i>
 
 8
 00:01:13,328 --> 00:01:15,855
-<i>tudo o que h· para saber
+<i>tudo o que h√° para saber
 sobre as minhas...</i>
 
 9
@@ -47,7 +47,7 @@ que lhe contei a verdade...</i>
 
 11
 00:01:22,596 --> 00:01:25,334
-<i>talvez eu n„o tenha
+<i>talvez eu n√£o tenha
 contado toda ela.</i>
 
 12
@@ -57,13 +57,13 @@ Frodo.</i>
 
 13
 00:01:36,248 --> 00:01:39,455
-<i>N„o sou o mesmo hobbit
-que j· fui.</i>
+<i>N√£o sou o mesmo hobbit
+que j√° fui.</i>
 
 14
 00:01:42,432 --> 00:01:47,019
-<i>Acho que est· na hora
-de vocÍ saber...</i>
+<i>Acho que est√° na hora
+de voc√™ saber...</i>
 
 15
 00:01:47,020 --> 00:01:49,797
@@ -71,17 +71,17 @@ de vocÍ saber...</i>
 
 16
 00:01:51,288 --> 00:01:54,779
-<i>ComeÁou h· muito tempo.</i>
+<i>Come√ßou h√° muito tempo.</i>
 
 17
 00:01:55,940 --> 00:01:59,159
 <i>Em uma terra
-para alÈm do leste.</i>
+para al√©m do leste.</i>
 
 18
 00:01:59,160 --> 00:02:03,891
 <i>O tipo de lugar
-que n„o se encontra mais.</i>
+que n√£o se encontra mais.</i>
 
 19
 00:02:14,276 --> 00:02:16,442
@@ -90,7 +90,7 @@ que n„o se encontra mais.</i>
 20
 00:02:17,076 --> 00:02:19,599
 <i>Seus mercados
-tinham uma grande reputaÁ„o,</i>
+tinham uma grande reputa√ß√£o,</i>
 
 21
 00:02:19,600 --> 00:02:23,151
@@ -99,7 +99,7 @@ das melhores iguarias.</i>
 
 22
 00:02:23,152 --> 00:02:26,274
-<i>PacÌfica e prÛspera.</i>
+<i>Pac√≠fica e pr√≥spera.</i>
 
 23
 00:02:28,968 --> 00:02:31,523
@@ -109,7 +109,7 @@ diante das portas</i>
 24
 00:02:31,524 --> 00:02:34,500
 <i>do maior reino
-da Terra-MÈdia.</i>
+da Terra-M√©dia.</i>
 
 25
 00:02:35,389 --> 00:02:36,912
@@ -117,7 +117,7 @@ da Terra-MÈdia.</i>
 
 26
 00:02:37,712 --> 00:02:39,991
-<i>A fortaleza de ThrÛr.</i>
+<i>A fortaleza de Thr√≥r.</i>
 
 27
 00:02:39,992 --> 00:02:42,082
@@ -126,12 +126,12 @@ da Terra-MÈdia.</i>
 28
 00:02:42,083 --> 00:02:44,851
 <i>O mais poderoso
-dos Senhores Anıes.</i>
+dos Senhores An√µes.</i>
 
 29
 00:02:45,988 --> 00:02:48,999
-<i>ThrÛr reinava
-com confianÁa absoluta.</i>
+<i>Thr√≥r reinava
+com confian√ßa absoluta.</i>
 
 30
 00:02:49,000 --> 00:02:51,383
@@ -153,13 +153,13 @@ nas vidas de seu filho...</i>
 
 34
 00:03:02,187 --> 00:03:04,642
-<i>ConstruÌda nas profundezas
-da prÛpria montanha,</i>
+<i>Constru√≠da nas profundezas
+da pr√≥pria montanha,</i>
 
 35
 00:03:04,643 --> 00:03:08,418
 <i>a beleza desta cidade-fortaleza
-era lend·ria.</i>
+era lend√°ria.</i>
 
 36
 00:03:08,419 --> 00:03:11,206
@@ -168,7 +168,7 @@ era lend·ria.</i>
 37
 00:03:11,207 --> 00:03:14,002
 <i>Em gemas preciosas
-extraÌdas da rocha</i>
+extra√≠das da rocha</i>
 
 38
 00:03:14,003 --> 00:03:19,815
@@ -177,8 +177,8 @@ fluindo como rios pelas pedras.</i>
 
 39
 00:03:22,387 --> 00:03:25,807
-<i>A habilidade dos anıes
-era inigual·vel.</i>
+<i>A habilidade dos an√µes
+era inigual√°vel.</i>
 
 40
 00:03:25,808 --> 00:03:28,373
@@ -193,16 +193,16 @@ esmeraldas, rubis e safiras.</i>
 42
 00:03:34,083 --> 00:03:38,060
 <i>Sempre indo mais fundo
-na escurid„o.</i>
+na escurid√£o.</i>
 
 43
 00:03:38,759 --> 00:03:41,669
-<i>E foi l·
+<i>E foi l√°
 onde eles encontraram.</i>
 
 44
 00:03:47,358 --> 00:03:49,616
-<i>O CoraÁ„o da Montanha.</i>
+<i>O Cora√ß√£o da Montanha.</i>
 
 45
 00:03:51,343 --> 00:03:53,490
@@ -210,7 +210,7 @@ onde eles encontraram.</i>
 
 46
 00:03:54,191 --> 00:03:57,238
-<i>ThrÛr a nomeou
+<i>Thr√≥r a nomeou
 "a Joia do Rei".</i>
 
 47
@@ -225,45 +225,45 @@ de governar era divino.</i>
 49
 00:04:02,731 --> 00:04:05,154
 <i>Todos deveriam prestar
-reverÍncia a ele.</i>
+rever√™ncia a ele.</i>
 
 50
 00:04:05,155 --> 00:04:09,327
-<i>AtÈ o grande Rei …lfico,
+<i>At√© o grande Rei √âlfico,
 Thranduil.</i>
 
 51
 00:04:10,704 --> 00:04:14,426
 <i>Mas os anos de paz
-e prosperidade n„o duraram.</i>
+e prosperidade n√£o duraram.</i>
 
 52
 00:04:15,583 --> 00:04:19,282
 <i>Lentamente os dias
-tornaram-se desagrad·veis</i>
+tornaram-se desagrad√°veis</i>
 
 53
 00:04:19,283 --> 00:04:22,385
 <i>e as noites vigilantes
-avanÁaram.</i>
+avan√ßaram.</i>
 
 54
 00:04:29,032 --> 00:04:32,964
-<i>O amor de ThrÛr por ouro
+<i>O amor de Thr√≥r por ouro
 tornou-se voraz.</i>
 
 55
 00:04:35,008 --> 00:04:38,962
-<i>Uma doenÁa comeÁou
+<i>Uma doen√ßa come√ßou
 a crescer dentro dele.</i>
 
 56
 00:04:39,904 --> 00:04:42,787
-<i>Era uma doenÁa da mente.</i>
+<i>Era uma doen√ßa da mente.</i>
 
 57
 00:04:45,184 --> 00:04:48,089
-<i>E onde doenÁa prospera...</i>
+<i>E onde doen√ßa prospera...</i>
 
 58
 00:04:48,756 --> 00:04:51,184
@@ -276,7 +276,7 @@ foi um barulho,</i>
 
 60
 00:05:02,513 --> 00:05:05,735
-<i>como um furac„o
+<i>como um furac√£o
 vindo do Norte.</i>
 
 61
@@ -296,23 +296,23 @@ Balin, soe o alarme.
 64
 00:05:20,381 --> 00:05:22,500
 Chame todos os guardas.
-FaÁa isso agora!
+Fa√ßa isso agora!
 
 65
 00:05:22,501 --> 00:05:23,996
-O que È isso?
+O que √© isso?
 
 66
 00:05:23,997 --> 00:05:25,397
-Drag„o.
+Drag√£o.
 
 67
 00:05:26,063 --> 00:05:28,416
-Drag„o!
+Drag√£o!
 
 68
 00:05:30,549 --> 00:05:33,270
-<i>Era um drag„o de fogo
+<i>Era um drag√£o de fogo
 do Norte.</i>
 
 69
@@ -325,22 +325,22 @@ do Norte.</i>
 
 71
 00:06:11,973 --> 00:06:15,138
-<i>Muitas mortes desnecess·rias
+<i>Muitas mortes desnecess√°rias
 aconteceram naquele dia.</i>
 
 72
 00:06:15,897 --> 00:06:19,118
 <i>Pois essa cidade dos homens
-n„o era nada para Smaug.</i>
+n√£o era nada para Smaug.</i>
 
 73
 00:06:20,001 --> 00:06:23,416
 <i>Seus olhos estavam voltados
-para outro prÍmio.</i>
+para outro pr√™mio.</i>
 
 74
 00:06:28,117 --> 00:06:30,486
-<i>Pois dragıes almejam ouro...</i>
+<i>Pois drag√µes almejam ouro...</i>
 
 75
 00:06:31,128 --> 00:06:34,017
@@ -353,7 +353,7 @@ Preparem-se!
 
 77
 00:07:06,388 --> 00:07:08,068
-N„o!
+N√£o!
 
 78
 00:07:13,604 --> 00:07:15,255
@@ -365,7 +365,7 @@ Vamos!
 
 80
 00:07:23,905 --> 00:07:28,823
-<i>Pois um drag„o protege seu saque
+<i>Pois um drag√£o protege seu saque
 enquanto vive.</i>
 
 81
@@ -378,12 +378,12 @@ Ajudem-nos!
 
 83
 00:07:55,274 --> 00:07:57,913
-<i>Thranduil n„o arriscaria
+<i>Thranduil n√£o arriscaria
 a vida de seu povo</i>
 
 84
 00:07:57,914 --> 00:07:59,887
-<i>contra a f˙ria do drag„o.</i>
+<i>contra a f√∫ria do drag√£o.</i>
 
 85
 00:08:00,946 --> 00:08:04,030
@@ -393,7 +393,7 @@ veio dos elfos naquele dia,</i>
 86
 00:08:04,818 --> 00:08:06,985
 <i>ou em qualquer dia
-desde ent„o.</i>
+desde ent√£o.</i>
 
 87
 00:08:08,709 --> 00:08:11,064
@@ -401,7 +401,7 @@ desde ent„o.</i>
 
 88
 00:08:11,065 --> 00:08:14,579
-<i>os anıes de Erebor vagaram
+<i>os an√µes de Erebor vagaram
 por terras selvagens.</i>
 
 89
@@ -411,8 +411,8 @@ agora derrotados.</i>
 
 90
 00:08:20,273 --> 00:08:24,056
-<i>O prÌncipe an„o aceitou trabalho
-onde pÙde encontrar,</i>
+<i>O pr√≠ncipe an√£o aceitou trabalho
+onde p√¥de encontrar,</i>
 
 91
 00:08:24,057 --> 00:08:26,496
@@ -426,18 +426,18 @@ se lembrava</i>
 
 93
 00:08:28,777 --> 00:08:31,856
-<i>da fumaÁa da montanha
+<i>da fuma√ßa da montanha
 abaixo da lua,</i>
 
 94
 00:08:31,857 --> 00:08:35,280
-<i>das ·rvores como tochas
+<i>das √°rvores como tochas
 brilhando ardentemente,</i>
 
 95
 00:08:35,281 --> 00:08:38,520
 <i>pois ele havia visto
-fogo de drag„o no cÈu</i>
+fogo de drag√£o no c√©u</i>
 
 96
 00:08:38,521 --> 00:08:41,463
@@ -455,7 +455,7 @@ transformada em cinzas.</i>
 99
 00:08:53,161 --> 00:08:57,273
 <i>Aqui, meu querido Frodo,
-È onde entro.</i>
+√© onde entro.</i>
 
 100
 00:08:57,949 --> 00:09:01,120
@@ -469,26 +469,26 @@ e pela vontade de um mago,</i>
 102
 00:09:02,564 --> 00:09:05,139
 <i>que eu me tornaria
-parte desta histÛria.</i>
+parte desta hist√≥ria.</i>
 
 103
 00:09:06,420 --> 00:09:07,860
-<i>Ela comeÁou...</i>
+<i>Ela come√ßou...</i>
 
 104
 00:09:07,861 --> 00:09:10,551
-<i>Bem, comeÁou como vocÍ
-j· deve imaginar.</i>
+<i>Bem, come√ßou como voc√™
+j√° deve imaginar.</i>
 
 105
 00:09:11,751 --> 00:09:16,944
-<i>Numa toca no ch„o
+<i>Numa toca no ch√£o
 vivia um hobbit.</i>
 
 106
 00:09:18,804 --> 00:09:21,276
-<i>N„o uma toca desagrad·vel,
-suja e ˙mida</i>
+<i>N√£o uma toca desagrad√°vel,
+suja e √∫mida</i>
 
 107
 00:09:21,277 --> 00:09:23,975
@@ -515,25 +515,25 @@ Obrigado.
 
 112
 00:10:12,200 --> 00:10:13,699
-O que È isso?
+O que √© isso?
 
 113
 00:10:13,700 --> 00:10:17,427
-… privado.
+√â privado.
 Deixe suas patas longe.
 
 114
 00:10:18,500 --> 00:10:20,452
-Ainda n„o est· pronto.
+Ainda n√£o est√° pronto.
 
 115
 00:10:20,453 --> 00:10:24,158
-- N„o est· pronto para quÍ?
+- N√£o est√° pronto para qu√™?
 - Para ler.
 
 116
 00:10:27,276 --> 00:10:29,271
-O que È isso?
+O que √© isso?
 
 117
 00:10:30,200 --> 00:10:32,229
@@ -543,11 +543,11 @@ para a festa.
 118
 00:10:33,021 --> 00:10:36,772
 Minha nossa!
-… hoje?
+√â hoje?
 
 119
 00:10:36,773 --> 00:10:40,189
-Todos disseram que vir„o,
+Todos disseram que vir√£o,
 menos os Sacola-Bolseiros,
 
 120
@@ -558,20 +558,20 @@ pessoalmente.
 121
 00:10:42,350 --> 00:10:45,699
 Querem mesmo?
-SÛ por cima do meu cad·ver.
+S√≥ por cima do meu cad√°ver.
 
 122
 00:10:45,700 --> 00:10:47,799
-Eles n„o devem discordar.
+Eles n√£o devem discordar.
 
 123
 00:10:47,800 --> 00:10:50,150
-Acham que vocÍ tem minas
+Acham que voc√™ tem minas
 transbordando de ouro.
 
 124
 00:10:50,151 --> 00:10:53,749
-Era um pequeno ba˙.
+Era um pequeno ba√∫.
 Nem estava cheio.
 
 125
@@ -580,21 +580,21 @@ E ainda cheira a troll.
 
 126
 00:10:57,600 --> 00:10:59,398
-O que est· fazendo?
+O que est√° fazendo?
 
 127
 00:11:02,100 --> 00:11:03,724
-Tomando precauÁıes.
+Tomando precau√ß√µes.
 
 128
 00:11:04,400 --> 00:11:07,110
-Eu j· a vi pegando
+Eu j√° a vi pegando
 a prataria.
 
 129
 00:11:07,111 --> 00:11:10,976
 - Quem?
-- LobÈlia Saco-Bolseiro.
+- Lob√©lia Saco-Bolseiro.
 
 130
 00:11:11,829 --> 00:11:14,167
@@ -603,7 +603,7 @@ enfiadas no bolso dela.
 
 131
 00:11:15,100 --> 00:11:16,719
-Uma mulher desagrad·vel.
+Uma mulher desagrad√°vel.
 
 132
 00:11:16,720 --> 00:11:19,728
@@ -616,21 +616,21 @@ Quando eu...
 
 134
 00:11:23,420 --> 00:11:25,655
-Quando vocÍ o quÍ?
+Quando voc√™ o qu√™?
 
 135
 00:11:29,650 --> 00:11:32,624
-N„o È nada.
+N√£o √© nada.
 Nada.
 
 136
 00:11:38,649 --> 00:11:41,715
-Algumas pessoas est„o
-se perguntando sobre vocÍ, tio.
+Algumas pessoas est√£o
+se perguntando sobre voc√™, tio.
 
 137
 00:11:41,716 --> 00:11:45,469
-- Acham que est· estranho.
+- Acham que est√° estranho.
 - Estranho?
 
 138
@@ -641,7 +641,7 @@ se perguntando sobre vocÍ, tio.
 139
 00:11:50,943 --> 00:11:53,643
 Seja um bom rapaz
-e pregue isso no port„o.
+e pregue isso no port√£o.
 
 140
 00:11:55,329 --> 00:11:58,237
@@ -650,7 +650,7 @@ EXCETO PARA ASSUNTOS FESTIVOS
 
 141
 00:12:03,294 --> 00:12:06,149
-- Acha que ele vir·?
+- Acha que ele vir√°?
 - Quem?
 
 142
@@ -659,13 +659,13 @@ Gandalf.
 
 143
 00:12:08,200 --> 00:12:11,092
-Ele n„o perderia a chance
+Ele n√£o perderia a chance
 de soltar os fogos dele.
 
 144
 00:12:11,093 --> 00:12:13,618
-Ser· um belo espet·culo.
-VocÍ ver·.
+Ser√° um belo espet√°culo.
+Voc√™ ver√°.
 
 145
 00:12:13,619 --> 00:12:15,591
@@ -674,22 +674,22 @@ VocÍ ver·.
 
 146
 00:12:15,592 --> 00:12:17,999
-¿ Quarta Leste.
+√Ä Quarta Leste.
 Farei uma surpresa a ele.
 
 147
 00:12:18,000 --> 00:12:21,442
-Ent„o ande logo.
-N„o vai querer se atrasar.
+Ent√£o ande logo.
+N√£o vai querer se atrasar.
 
 148
 00:12:26,100 --> 00:12:28,929
-<i>Ele n„o gosta
+<i>Ele n√£o gosta
 de estar atrasado.</i>
 
 149
 00:12:29,902 --> 00:12:32,199
-<i>N„o que eu j· tivesse
+<i>N√£o que eu j√° tivesse
 me atrasado.</i>
 
 150
@@ -724,13 +724,13 @@ eu era sempre pontual.</i>
 
 157
 00:13:12,650 --> 00:13:14,414
-Est· me desejando
+Est√° me desejando
 um bom dia
 
 158
 00:13:14,415 --> 00:13:17,536
-ou È um bom dia,
-eu querendo ou n„o?
+ou √© um bom dia,
+eu querendo ou n√£o?
 
 159
 00:13:18,488 --> 00:13:22,810
@@ -739,7 +739,7 @@ que se sente bem neste dia?
 
 160
 00:13:23,693 --> 00:13:27,865
-Ou este È um dia
+Ou este √© um dia
 para se estar bem?
 
 161
@@ -754,7 +754,7 @@ eu acho.
 
 163
 00:13:43,111 --> 00:13:47,196
-Procuro alguÈm
+Procuro algu√©m
 para partilhar uma aventura.
 
 164
@@ -763,17 +763,17 @@ Uma aventura?
 
 165
 00:13:53,862 --> 00:13:58,726
-Acho que ninguÈm a oeste de Bri
+Acho que ningu√©m a oeste de Bri
 se interessaria.
 
 166
 00:13:59,769 --> 00:14:03,582
 Coisas sujas, perturbadoras...
-desconfort·veis.
+desconfort√°veis.
 
 167
 00:14:04,490 --> 00:14:06,778
-VocÍ se atrasaria
+Voc√™ se atrasaria
 para o jantar.
 
 168
@@ -788,7 +788,7 @@ para ouvir "bom dia"
 170
 00:14:19,498 --> 00:14:21,747
 do filho
-de Beladona T˚k,
+de Beladona T√ªk,
 
 171
 00:14:21,748 --> 00:14:24,313
@@ -797,26 +797,26 @@ um mercador ambulante.
 
 172
 00:14:25,120 --> 00:14:26,642
-Perd„o?
+Perd√£o?
 
 173
 00:14:26,643 --> 00:14:28,162
-VocÍ mudou.
+Voc√™ mudou.
 
 174
 00:14:28,163 --> 00:14:30,322
-E n„o necessariamente
+E n√£o necessariamente
 para melhor, Bilbo Bolseiro.
 
 175
 00:14:30,323 --> 00:14:31,723
 Desculpe,
-eu conheÁo vocÍ?
+eu conhe√ßo voc√™?
 
 176
 00:14:31,724 --> 00:14:34,944
-VocÍ sabe meu nome,
-mas n„o a que se refere.
+Voc√™ sabe meu nome,
+mas n√£o a que se refere.
 
 177
 00:14:34,945 --> 00:14:36,946
@@ -832,23 +832,23 @@ eu.
 
 180
 00:14:43,020 --> 00:14:44,937
-N„o o Gandalf,
+N√£o o Gandalf,
 o mago errante
 
 181
 00:14:44,938 --> 00:14:47,203
 que faz maravilhas
-com fogos de artifÌcio?
+com fogos de artif√≠cio?
 
 182
 00:14:47,204 --> 00:14:49,975
-O Velho T˚k soltava na vÈspera
-do solstÌcio de ver„o!
+O Velho T√ªk soltava na v√©spera
+do solst√≠cio de ver√£o!
 
 183
 00:14:51,238 --> 00:14:53,405
-N„o sabia que ainda estava
-no negÛcio.
+N√£o sabia que ainda estava
+no neg√≥cio.
 
 184
 00:14:54,500 --> 00:14:56,174
@@ -862,12 +862,12 @@ de algo sobre mim.
 186
 00:15:04,700 --> 00:15:07,238
 Mesmo que seja
-dos fogos de artifÌcio.
+dos fogos de artif√≠cio.
 
 187
 00:15:08,520 --> 00:15:13,063
-Bem, est· decidido.
-Vai ser bom para vocÍ.
+Bem, est√° decidido.
+Vai ser bom para voc√™.
 
 188
 00:15:13,700 --> 00:15:17,614
@@ -877,20 +877,20 @@ Vou informar aos outros.
 189
 00:15:17,615 --> 00:15:21,113
 Informar quem?
-O quÍ? N„o, espere.
+O qu√™? N√£o, espere.
 
 190
 00:15:21,114 --> 00:15:24,763
-N„o queremos aventuras aqui.
+N√£o queremos aventuras aqui.
 
 191
 00:15:24,764 --> 00:15:26,260
-Obrigado. N„o hoje.
+Obrigado. N√£o hoje.
 
 192
 00:15:27,307 --> 00:15:31,435
-… melhor tentar acima da Colina
-ou depois do ¡gua.
+√â melhor tentar acima da Colina
+ou depois do √Ågua.
 
 193
 00:15:33,990 --> 00:15:35,890
@@ -902,29 +902,29 @@ Dwalin.
 
 195
 00:17:00,611 --> 00:17:02,086
-¿s suas ordens.
+√Äs suas ordens.
 
 196
 00:17:05,177 --> 00:17:09,999
 Bilbo Bolseiro...
-‡s suas.
+√†s suas.
 
 197
 00:17:10,000 --> 00:17:11,451
-NÛs nos conhecemos?
+N√≥s nos conhecemos?
 
 198
 00:17:12,098 --> 00:17:13,528
-N„o.
+N√£o.
 
 199
 00:17:14,750 --> 00:17:17,638
 Para que lado, rapaz?
-… por aqui?
+√â por aqui?
 
 200
 00:17:17,639 --> 00:17:20,199
-O quÍ?
+O qu√™?
 
 201
 00:17:20,200 --> 00:17:21,799
@@ -942,12 +942,12 @@ Quem disse?
 
 204
 00:17:38,695 --> 00:17:40,993
-Isso est· muito bom.
+Isso est√° muito bom.
 Tem mais?
 
 205
 00:17:41,890 --> 00:17:43,358
-O quÍ?
+O qu√™?
 
 206
 00:17:43,359 --> 00:17:44,967
@@ -959,30 +959,30 @@ Sirva-se.
 
 208
 00:17:56,726 --> 00:17:58,131
-SÛ tem um...
+S√≥ tem um...
 
 209
 00:17:58,982 --> 00:18:01,359
-Eu n„o estava esperando
+Eu n√£o estava esperando
 companhia.
 
 210
 00:18:04,670 --> 00:18:06,445
-… a porta.
+√â a porta.
 
 211
 00:18:10,750 --> 00:18:13,262
 Balin.
-¿s suas ordens.
+√Äs suas ordens.
 
 212
 00:18:14,718 --> 00:18:17,205
 - Boa noite.
-- Sim, est· uma boa noite.
+- Sim, est√° uma boa noite.
 
 213
 00:18:18,102 --> 00:18:20,832
-Mas acho que chover·
+Mas acho que chover√°
 mais tarde.
 
 214
@@ -991,11 +991,11 @@ Estou atrasado?
 
 215
 00:18:22,901 --> 00:18:24,742
-Atrasado para quÍ?
+Atrasado para qu√™?
 
 216
 00:18:27,686 --> 00:18:29,414
-Boa noite, irm„o.
+Boa noite, irm√£o.
 
 217
 00:18:30,766 --> 00:18:32,680
@@ -1003,36 +1003,36 @@ Pelas minhas barbas.
 
 218
 00:18:33,373 --> 00:18:36,421
-Est· mais baixo e mais largo
+Est√° mais baixo e mais largo
 desde que nos vimos.
 
 219
 00:18:36,422 --> 00:18:38,645
 Mais largo,
-n„o mais baixo.
+n√£o mais baixo.
 
 220
 00:18:38,646 --> 00:18:40,525
 Inteligente o suficiente
-para nÛs dois.
+para n√≥s dois.
 
 221
 00:18:51,022 --> 00:18:53,492
-Com licenÁa, desculpe.
+Com licen√ßa, desculpe.
 Odeio interromper.
 
 222
 00:18:53,493 --> 00:18:57,347
-Mas n„o sei
-se est„o na casa certa.
+Mas n√£o sei
+se est√£o na casa certa.
 
 223
 00:18:57,348 --> 00:18:58,789
-J· comeu?
+J√° comeu?
 
 224
 00:18:58,790 --> 00:19:00,394
-N„o que eu n„o goste...
+N√£o que eu n√£o goste...
 de visitas.
 
 225
@@ -1042,13 +1042,13 @@ como qualquer hobbit.
 
 226
 00:19:03,826 --> 00:19:07,351
-Mas gosto de conhecÍ-las
+Mas gosto de conhec√™-las
 antes que venham me visitar.
 
 227
 00:19:07,352 --> 00:19:09,399
-- O que È isso?
-- N„o sei, acho que È queijo.
+- O que √© isso?
+- N√£o sei, acho que √© queijo.
 
 228
 00:19:09,400 --> 00:19:10,886
@@ -1057,17 +1057,17 @@ antes que venham me visitar.
 
 229
 00:19:10,887 --> 00:19:13,368
-- Est· cheio de mofo.
+- Est√° cheio de mofo.
 - Acontece...
 
 230
 00:19:13,369 --> 00:19:16,281
-Eu n„o conheÁo vocÍs,
+Eu n√£o conhe√ßo voc√™s,
 nem um pouco.
 
 231
 00:19:17,098 --> 00:19:20,015
-N„o quero ser rude,
+N√£o quero ser rude,
 mas eu preciso falar.
 
 232
@@ -1080,8 +1080,8 @@ Desculpas aceitas.
 
 234
 00:19:26,890 --> 00:19:28,723
-Pegue tudo, irm„o.
-N„o economize.
+Pegue tudo, irm√£o.
+N√£o economize.
 
 235
 00:19:30,600 --> 00:19:32,170
@@ -1095,25 +1095,25 @@ se insistir.
 
 237
 00:19:37,108 --> 00:19:39,496
-¿s suas ordens.
+√Äs suas ordens.
 
 238
 00:19:39,497 --> 00:19:40,903
-VocÍ deve ser o sr. Bolseiro.
+Voc√™ deve ser o sr. Bolseiro.
 
 239
 00:19:40,904 --> 00:19:43,405
-N„o podem entrar.
-Vieram ‡ casa errada.
+N√£o podem entrar.
+Vieram √† casa errada.
 
 240
 00:19:43,406 --> 00:19:45,668
-O quÍ?
+O qu√™?
 Foi cancelada?
 
 241
 00:19:45,669 --> 00:19:47,309
-NinguÈm nos avisou.
+Ningu√©m nos avisou.
 
 242
 00:19:47,310 --> 00:19:48,812
@@ -1121,7 +1121,7 @@ Nada foi cancelado.
 
 243
 00:19:48,813 --> 00:19:50,655
-Que alÌvio.
+Que al√≠vio.
 
 244
 00:19:54,086 --> 00:19:57,565
@@ -1130,21 +1130,21 @@ Acabei de afiar.
 
 245
 00:19:57,566 --> 00:19:59,777
-Que lugar agrad·vel.
+Que lugar agrad√°vel.
 
 246
 00:19:59,778 --> 00:20:01,211
-VocÍ ergueu sozinho?
+Voc√™ ergueu sozinho?
 
 247
 00:20:01,212 --> 00:20:03,347
-N„o, est· na famÌlia
-h· anos.
+N√£o, est√° na fam√≠lia
+h√° anos.
 
 248
 00:20:03,348 --> 00:20:06,363
-Esse È o ba˙ da minha m„e!
-Pode n„o fazer isso?
+Esse √© o ba√∫ da minha m√£e!
+Pode n√£o fazer isso?
 
 249
 00:20:06,364 --> 00:20:09,066
@@ -1158,12 +1158,12 @@ Sr. Dwalin.
 251
 00:20:12,531 --> 00:20:15,087
 Vamos levar ao corredor.
-N„o v„o caber todos.
+N√£o v√£o caber todos.
 
 252
 00:20:15,088 --> 00:20:17,267
 Todos?
-Quantos mais vir„o?
+Quantos mais vir√£o?
 
 253
 00:20:17,268 --> 00:20:18,869
@@ -1172,21 +1172,21 @@ Quantos mais vir„o?
 
 254
 00:20:18,870 --> 00:20:20,783
-Essa n„o...
+Essa n√£o...
 
 255
 00:20:20,784 --> 00:20:23,367
-N„o tem ninguÈm
+N√£o tem ningu√©m
 em casa!
 
 256
 00:20:23,368 --> 00:20:26,301
-V· embora,
+V√° embora,
 incomode outra pessoa!
 
 257
 00:20:26,302 --> 00:20:29,703
-J· tem anıes demais
+J√° tem an√µes demais
 na minha sala de jantar.
 
 258
@@ -1197,11 +1197,11 @@ uma brincadeira...
 259
 00:20:33,712 --> 00:20:37,840
 posso dizer
-que È de pÈssimo gosto.
+que √© de p√©ssimo gosto.
 
 260
 00:20:39,896 --> 00:20:41,313
-Tire as m„os!
+Tire as m√£os!
 
 261
 00:20:47,247 --> 00:20:48,734
@@ -1209,8 +1209,8 @@ Gandalf.
 
 262
 00:20:48,735 --> 00:20:51,068
-Esses s„o...
-Com licenÁa, o meu vinho n„o!
+Esses s√£o...
+Com licen√ßa, o meu vinho n√£o!
 
 263
 00:20:51,069 --> 00:20:53,237
@@ -1219,12 +1219,12 @@ Devolva!
 
 264
 00:20:53,238 --> 00:20:55,627
-A geleia n„o!
-Com licenÁa.
+A geleia n√£o!
+Com licen√ßa.
 
 265
 00:20:55,628 --> 00:20:58,155
-N„o est· exagerando?
+N√£o est√° exagerando?
 Pegou a faca de queijo?
 
 266
@@ -1235,7 +1235,7 @@ Ele come por blocos.
 267
 00:21:01,526 --> 00:21:03,434
 Essa cadeira
-era do meu avÙ Mungo.
+era do meu av√¥ Mungo.
 
 268
 00:21:03,435 --> 00:21:05,586
@@ -1243,13 +1243,13 @@ Leve de volta, por favor.
 
 269
 00:21:05,587 --> 00:21:07,860
-… uma antiguidade,
-n„o È para sentar.
+√â uma antiguidade,
+n√£o √© para sentar.
 
 270
 00:21:09,636 --> 00:21:12,452
-<i>… um livro,
-n„o um porta-copo.</i>
+<i>√â um livro,
+n√£o um porta-copo.</i>
 
 271
 00:21:12,453 --> 00:21:14,092
@@ -1257,16 +1257,16 @@ n„o um porta-copo.</i>
 
 272
 00:21:15,060 --> 00:21:17,403
-Com licenÁa, sr. Gandalf.
+Com licen√ßa, sr. Gandalf.
 
 273
 00:21:17,404 --> 00:21:20,169
-Posso lhe tentar com uma xÌcara
-de ch· de camomila?
+Posso lhe tentar com uma x√≠cara
+de ch√° de camomila?
 
 274
 00:21:20,170 --> 00:21:21,609
-N„o, obrigado, Dori.
+N√£o, obrigado, Dori.
 
 275
 00:21:21,610 --> 00:21:24,348
@@ -1289,7 +1289,7 @@ Bifur, Bofur, Bombur.
 279
 00:21:40,748 --> 00:21:42,842
 - Dori, Nori.
-- N„o os tomates secos.
+- N√£o os tomates secos.
 
 280
 00:21:42,843 --> 00:21:44,320
@@ -1297,16 +1297,16 @@ Ori.
 
 281
 00:21:48,322 --> 00:21:50,196
-VocÍ est· certo, Bifur.
+Voc√™ est√° certo, Bifur.
 
 282
 00:21:50,924 --> 00:21:53,473
 Parece estar faltando
-um an„o.
+um an√£o.
 
 283
 00:21:53,474 --> 00:21:54,953
-Ele est· atrasado.
+Ele est√° atrasado.
 
 284
 00:21:54,954 --> 00:21:57,369
@@ -1315,7 +1315,7 @@ para encontrar nosso povo.
 
 285
 00:21:57,370 --> 00:21:58,899
-Ele vir·.
+Ele vir√°.
 
 286
 00:21:58,900 --> 00:22:00,300
@@ -1323,7 +1323,7 @@ Sr. Gandalf...
 
 287
 00:22:00,301 --> 00:22:02,814
-Uma taÁa de vinho tinto,
+Uma ta√ßa de vinho tinto,
 como pediu.
 
 288
@@ -1332,7 +1332,7 @@ Tem um sabor frutado.
 
 289
 00:22:06,200 --> 00:22:07,615
-Sa˙de.
+Sa√∫de.
 
 290
 00:22:18,882 --> 00:22:20,346
@@ -1341,16 +1341,16 @@ Bombur, pegue.
 291
 00:22:34,407 --> 00:22:36,171
 Quem quer mais cerveja?
-AÌ vai.
+A√≠ vai.
 
 292
 00:22:38,442 --> 00:22:41,354
 Quer mais uma bebida?
-AÌ vai.
+A√≠ vai.
 
 293
 00:22:46,257 --> 00:22:47,934
-Virar no trÍs.
+Virar no tr√™s.
 
 294
 00:22:47,935 --> 00:22:49,465
@@ -1358,44 +1358,44 @@ Um, dois...
 
 295
 00:23:03,370 --> 00:23:06,375
-Com licenÁa, È um descanso,
-e n„o um pano de prato.
+Com licen√ßa, √© um descanso,
+e n√£o um pano de prato.
 
 296
 00:23:06,376 --> 00:23:07,776
-Mas est· furado.
+Mas est√° furado.
 
 297
 00:23:07,777 --> 00:23:09,471
-… para ser assim,
-È de crochÍ.
+√â para ser assim,
+√© de croch√™.
 
 298
 00:23:09,472 --> 00:23:12,583
-Este È um Ûtimo jogo.
-Se vocÍ tiver coragem.
+Este √© um √≥timo jogo.
+Se voc√™ tiver coragem.
 
 299
 00:23:12,584 --> 00:23:14,824
-Que anıes impertinentes!
+Que an√µes impertinentes!
 
 300
 00:23:14,825 --> 00:23:18,143
 Meu caro Bilbo,
-qual È o problema?
+qual √© o problema?
 
 301
 00:23:18,144 --> 00:23:19,628
-Qual È o problema?
+Qual √© o problema?
 
 302
 00:23:19,629 --> 00:23:22,977
-Estou cercado de anıes.
+Estou cercado de an√µes.
 O que eles fazem aqui?
 
 303
 00:23:22,978 --> 00:23:25,321
-S„o um grupo animado...
+S√£o um grupo animado...
 
 304
 00:23:25,322 --> 00:23:26,815
@@ -1404,7 +1404,7 @@ a eles.
 
 305
 00:23:26,816 --> 00:23:28,911
-N„o quero me acostumar.
+N√£o quero me acostumar.
 
 306
 00:23:28,912 --> 00:23:30,395
@@ -1426,16 +1426,16 @@ no banheiro.
 
 310
 00:23:35,985 --> 00:23:37,566
-DestruÌram o encanamento.
+Destru√≠ram o encanamento.
 
 311
 00:23:37,567 --> 00:23:39,943
-N„o entendo
-por que est„o na minha casa!
+N√£o entendo
+por que est√£o na minha casa!
 
 312
 00:23:39,944 --> 00:23:41,391
-Com licenÁa.
+Com licen√ßa.
 
 313
 00:23:41,392 --> 00:23:43,681
@@ -1443,7 +1443,7 @@ Desculpe interromper.
 
 314
 00:23:43,682 --> 00:23:45,975
-Mas o que faÁo
+Mas o que fa√ßo
 com o meu prato?
 
 315
@@ -1452,17 +1452,17 @@ Aqui, Ori, passe aqui.
 
 316
 00:23:54,282 --> 00:23:56,599
-Com licenÁa,
-esses eram da minha m„e!
+Com licen√ßa,
+esses eram da minha m√£e!
 
 317
 00:23:56,600 --> 00:23:58,458
-TÍm mais de 100 anos!
+T√™m mais de 100 anos!
 
 318
 00:24:02,794 --> 00:24:05,314
-Podem n„o fazer isso?
-V„o cegar as facas.
+Podem n√£o fazer isso?
+V√£o cegar as facas.
 
 319
 00:24:05,970 --> 00:24:07,904
@@ -1490,7 +1490,7 @@ e pratos partidos</i>
 
 324
 00:24:18,722 --> 00:24:20,552
-<i>Isso È o que Bilbo Bolseiro
+<i>Isso √© o que Bilbo Bolseiro
 detesta</i>
 
 325
@@ -1506,22 +1506,22 @@ jogue os ossinhos</i>
 327
 00:24:24,392 --> 00:24:28,240
 <i>O leite entornado
-no ch„o se coalha</i>
+no ch√£o se coalha</i>
 
 328
 00:24:28,241 --> 00:24:30,345
 <i>Em cada porta
-h· manchas de vinho</i>
+h√° manchas de vinho</i>
 
 329
 00:24:30,346 --> 00:24:32,247
-<i>Jogue a louÁa
-em ·gua fervente,</i>
+<i>Jogue a lou√ßa
+em √°gua fervente,</i>
 
 330
 00:24:32,248 --> 00:24:34,207
 <i>Soque bastante
-com um bast„o,</i>
+com um bast√£o,</i>
 
 331
 00:24:34,208 --> 00:24:38,130
@@ -1530,12 +1530,12 @@ por mais que se tente</i>
 
 332
 00:24:39,098 --> 00:24:41,194
-<i>FaÁa rolar,
-rolar pelo ch„o</i>
+<i>Fa√ßa rolar,
+rolar pelo ch√£o</i>
 
 333
 00:24:48,978 --> 00:24:51,161
-<i>Isso È o que Bilbo Bolseiro
+<i>Isso √© o que Bilbo Bolseiro
 detesta</i>
 
 334
@@ -1548,8 +1548,8 @@ Gandalf.
 
 336
 00:25:14,186 --> 00:25:16,871
-VocÍ disse que esse lugar
-seria f·cil de encontrar.
+Voc√™ disse que esse lugar
+seria f√°cil de encontrar.
 
 337
 00:25:16,872 --> 00:25:19,161
@@ -1557,17 +1557,17 @@ Eu me perdi duas vezes.
 
 338
 00:25:19,162 --> 00:25:22,449
-E n„o encontraria
-se n„o fosse a marca na porta.
+E n√£o encontraria
+se n√£o fosse a marca na porta.
 
 339
 00:25:22,450 --> 00:25:25,590
-N„o h· marca na porta.
-Foi pintada uma semana atr·s.
+N√£o h√° marca na porta.
+Foi pintada uma semana atr√°s.
 
 340
 00:25:25,591 --> 00:25:28,409
-H· uma marca.
+H√° uma marca.
 Eu mesmo gravei.
 
 341
@@ -1577,7 +1577,7 @@ Bilbo Bolseiro,
 342
 00:25:31,125 --> 00:25:33,517
 permita-me apresentar
-o lÌder da nossa Companhia.
+o l√≠der da nossa Companhia.
 
 343
 00:25:34,269 --> 00:25:36,509
@@ -1585,35 +1585,35 @@ Thorin Escudo-de-Carvalho.
 
 344
 00:25:36,510 --> 00:25:38,009
-Ent„o...
+Ent√£o...
 
 345
 00:25:39,493 --> 00:25:41,047
-Esse È o hobbit.
+Esse √© o hobbit.
 
 346
 00:25:42,679 --> 00:25:44,911
 Diga-me, sr. Bolseiro,
-j· lutou muito?
+j√° lutou muito?
 
 347
 00:25:44,912 --> 00:25:46,859
-- Perd„o?
+- Perd√£o?
 - Machado ou espada?
 
 348
 00:25:46,860 --> 00:25:48,699
-Qual È a sua arma?
+Qual √© a sua arma?
 
 349
 00:25:48,700 --> 00:25:52,395
 Tenho habilidades em duelos,
-se È o que quer saber,
+se √© o que quer saber,
 
 350
 00:25:52,396 --> 00:25:56,179
-mas n„o vejo
-por que isso È relevante.
+mas n√£o vejo
+por que isso √© relevante.
 
 351
 00:25:56,180 --> 00:25:57,930
@@ -1621,12 +1621,12 @@ Bem que pensei.
 
 352
 00:25:57,931 --> 00:26:00,574
-Parece mais um dono de armazÈm
-do que ladr„o.
+Parece mais um dono de armaz√©m
+do que ladr√£o.
 
 353
 00:26:06,286 --> 00:26:08,382
-E as notÌcias do encontro
+E as not√≠cias do encontro
 em Ered Luin?
 
 354
@@ -1640,26 +1640,26 @@ Representantes dos sete reinos.
 
 356
 00:26:13,350 --> 00:26:15,942
-O que os anıes
+O que os an√µes
 das Colinas de Ferro disseram?
 
 357
 00:26:16,942 --> 00:26:18,734
-Dain est· conosco?
+Dain est√° conosco?
 
 358
 00:26:21,285 --> 00:26:22,902
-Eles n„o vir„o.
+Eles n√£o vir√£o.
 
 359
 00:26:26,318 --> 00:26:30,069
-Eles dizem que a miss„o È nossa,
+Eles dizem que a miss√£o √© nossa,
 e somente nossa.
 
 360
 00:26:32,382 --> 00:26:34,318
-VocÍs v„o partir
-em uma miss„o?
+Voc√™s v√£o partir
+em uma miss√£o?
 
 361
 00:26:35,630 --> 00:26:40,174
@@ -1668,7 +1668,7 @@ Vamos conseguir mais luz.
 
 362
 00:26:41,321 --> 00:26:42,820
-Para alÈm do leste,
+Para al√©m do leste,
 
 363
 00:26:43,704 --> 00:26:45,821
@@ -1676,15 +1676,15 @@ acima de montanhas e rios,
 
 364
 00:26:46,838 --> 00:26:49,583
-alÈm de florestas e desertos,
+al√©m de florestas e desertos,
 
 365
 00:26:50,213 --> 00:26:52,790
-h· um pico solit·rio.
+h√° um pico solit√°rio.
 
 366
 00:26:56,182 --> 00:26:58,605
-A Montanha Solit·ria.
+A Montanha Solit√°ria.
 
 367
 00:26:58,606 --> 00:27:01,948
@@ -1713,7 +1713,7 @@ voltarem a Erebor,
 372
 00:27:14,692 --> 00:27:18,351
 o reinado da besta
-acabar·.
+acabar√°.
 
 373
 00:27:21,439 --> 00:27:22,839
@@ -1721,8 +1721,8 @@ Que besta?
 
 374
 00:27:22,840 --> 00:27:25,399
-… uma referÍncia a Smaug,
-o TerrÌvel.
+√â uma refer√™ncia a Smaug,
+o Terr√≠vel.
 
 375
 00:27:25,400 --> 00:27:29,066
@@ -1742,16 +1742,16 @@ garras como cutelos.
 378
 00:27:34,733 --> 00:27:37,411
 - Obcecado por metais preciosos.
-- Sei o que È um drag„o.
+- Sei o que √© um drag√£o.
 
 379
 00:27:37,412 --> 00:27:39,601
-Eu n„o tenho medo.
+Eu n√£o tenho medo.
 Estou pronto.
 
 380
 00:27:39,602 --> 00:27:43,153
-Ele vai sentir o punho de an„o
+Ele vai sentir o punho de an√£o
 naquele focinho!
 
 381
@@ -1760,12 +1760,12 @@ Sente-se.
 
 382
 00:27:44,555 --> 00:27:47,567
-J· seria difÌcil com um exÈrcito
+J√° seria dif√≠cil com um ex√©rcito
 nos apoiando.
 
 383
 00:27:47,568 --> 00:27:49,903
-E nÛs sÛ somos treze.
+E n√≥s s√≥ somos treze.
 
 384
 00:27:49,904 --> 00:27:52,186
@@ -1778,7 +1778,7 @@ Tampouco mais inteligentes.
 
 386
 00:27:55,085 --> 00:27:56,945
-Quem ele est· chamando
+Quem ele est√° chamando
 de burro?
 
 387
@@ -1791,60 +1791,60 @@ Mas somos guerreiros!
 
 389
 00:28:02,571 --> 00:28:05,110
-Todos nÛs.
-AtÈ o ˙ltimo an„o!
+Todos n√≥s.
+At√© o √∫ltimo an√£o!
 
 390
 00:28:05,111 --> 00:28:07,431
-E est„o esquecendo
+E est√£o esquecendo
 que temos um mago conosco.
 
 391
 00:28:07,432 --> 00:28:10,240
-Gandalf j· deve ter matado
-centenas de dragıes.
+Gandalf j√° deve ter matado
+centenas de drag√µes.
 
 392
 00:28:10,241 --> 00:28:12,296
-N„o, eu n„o diria...
+N√£o, eu n√£o diria...
 
 393
 00:28:12,297 --> 00:28:14,100
 - Quantos?
-- O quÍ?
+- O qu√™?
 
 394
 00:28:14,101 --> 00:28:16,087
-Quantos dragıes vocÍ matou?
+Quantos drag√µes voc√™ matou?
 
 395
 00:28:18,938 --> 00:28:21,119
 Vamos logo.
-Diga um n˙mero.
+Diga um n√∫mero.
 
 396
 00:28:24,165 --> 00:28:25,565
-Com licenÁa...
+Com licen√ßa...
 Por favor...
 
 397
 00:28:26,321 --> 00:28:27,873
-SilÍncio!
+Sil√™ncio!
 
 398
 00:28:30,068 --> 00:28:34,071
-Se nÛs percebemos os sinais,
-n„o acham que outros tambÈm?
+Se n√≥s percebemos os sinais,
+n√£o acham que outros tamb√©m?
 
 399
 00:28:36,370 --> 00:28:38,870
-Rumores comeÁaram
+Rumores come√ßaram
 a se espalhar.
 
 400
 00:28:39,512 --> 00:28:42,466
-O drag„o Smaug n„o È visto
-h· 60 anos.
+O drag√£o Smaug n√£o √© visto
+h√° 60 anos.
 
 401
 00:28:43,845 --> 00:28:45,640
@@ -1868,7 +1868,7 @@ Vamos ficar parados
 405
 00:28:55,218 --> 00:28:57,992
 enquanto outros tomam
-o que È nosso?
+o que √© nosso?
 
 406
 00:28:57,993 --> 00:29:00,907
@@ -1877,18 +1877,18 @@ para retomar Erebor?
 
 407
 00:29:02,959 --> 00:29:05,808
-Esquecem que o port„o frontal
-est· selado.
+Esquecem que o port√£o frontal
+est√° selado.
 
 408
 00:29:06,541 --> 00:29:08,966
-N„o h· como entrar
+N√£o h√° como entrar
 na Montanha.
 
 409
 00:29:08,967 --> 00:29:12,541
 Isso, meu caro Balin,
-n„o È completamente verdade.
+n√£o √© completamente verdade.
 
 410
 00:29:16,960 --> 00:29:18,551
@@ -1905,15 +1905,15 @@ Por Thrain.
 
 413
 00:29:23,428 --> 00:29:25,037
-Por seguranÁa.
+Por seguran√ßa.
 
 414
 00:29:26,230 --> 00:29:28,483
-… sua agora.
+√â sua agora.
 
 415
 00:29:35,496 --> 00:29:39,317
-Se h· uma chave,
+Se h√° uma chave,
 deve existir uma porta.
 
 416
@@ -1923,7 +1923,7 @@ Essas runas falam
 417
 00:29:41,674 --> 00:29:44,172
 de uma passagem secreta
-aos Salıes Inferiores.
+aos Sal√µes Inferiores.
 
 418
 00:29:44,790 --> 00:29:46,578
@@ -1931,31 +1931,31 @@ Tem outro jeito de entrar.
 
 419
 00:29:47,316 --> 00:29:48,716
-SÛ se a encontrarmos,
+S√≥ se a encontrarmos,
 
 420
 00:29:48,717 --> 00:29:51,101
-j· que portas de anıes
-ficam invisÌveis se fechadas.
+j√° que portas de an√µes
+ficam invis√≠veis se fechadas.
 
 421
 00:29:53,362 --> 00:29:56,462
-A resposta est· escondida
+A resposta est√° escondida
 nesse mapa
 
 422
 00:29:56,463 --> 00:29:58,712
-e eu n„o tenho a habilidade
-para encontr·-la.
+e eu n√£o tenho a habilidade
+para encontr√°-la.
 
 423
 00:29:58,713 --> 00:30:02,498
-Mas h· outros na Terra-MÈdia
+Mas h√° outros na Terra-M√©dia
 que conseguem.
 
 424
 00:30:03,731 --> 00:30:05,233
-A miss„o que tenho
+A miss√£o que tenho
 em mente
 
 425
@@ -1981,32 +1981,32 @@ que isso possa ser feito.
 429
 00:30:15,427 --> 00:30:17,127
 Por isso precisamos
-de um ladr„o!
+de um ladr√£o!
 
 430
 00:30:17,845 --> 00:30:20,838
-E um bom ladr„o.
+E um bom ladr√£o.
 Um especialista, acredito.
 
 431
 00:30:20,839 --> 00:30:23,018
-E vocÍ È um?
+E voc√™ √© um?
 
 432
 00:30:25,461 --> 00:30:26,861
-Sou o quÍ?
+Sou o qu√™?
 
 433
 00:30:27,477 --> 00:30:29,403
-Ele disse que È especialista!
+Ele disse que √© especialista!
 
 434
 00:30:30,467 --> 00:30:32,104
-Eu? N„o, n„o...
+Eu? N√£o, n√£o...
 
 435
 00:30:32,105 --> 00:30:33,565
-Eu n„o sou ladr„o.
+Eu n√£o sou ladr√£o.
 
 436
 00:30:33,566 --> 00:30:35,477
@@ -2020,12 +2020,12 @@ com o sr. Bolseiro.
 438
 00:30:38,532 --> 00:30:40,503
 Ele dificilmente poderia
-ser um ladr„o.
+ser um ladr√£o.
 
 439
 00:30:42,257 --> 00:30:45,979
-O Ermo n„o È lugar
-para quem n„o sabe se defender.
+O Ermo n√£o √© lugar
+para quem n√£o sabe se defender.
 
 440
 00:30:53,343 --> 00:30:54,774
@@ -2034,11 +2034,11 @@ Chega!
 441
 00:30:54,775 --> 00:31:00,401
 Se digo que Bilbo Bolseiro
-È um ladr„o, um ladr„o ele È!
+√© um ladr√£o, um ladr√£o ele √©!
 
 442
 00:31:01,362 --> 00:31:04,188
-Hobbits tÍm pÈ leve.
+Hobbits t√™m p√© leve.
 
 443
 00:31:04,189 --> 00:31:07,385
@@ -2047,17 +2047,17 @@ quando quiserem.
 
 444
 00:31:07,386 --> 00:31:11,507
-E j· que o drag„o
-conhece o cheiro dos anıes,
+E j√° que o drag√£o
+conhece o cheiro dos an√µes,
 
 445
 00:31:11,508 --> 00:31:17,477
-o cheiro de hobbit È novo,
-o que nos d· grande vantagem.
+o cheiro de hobbit √© novo,
+o que nos d√° grande vantagem.
 
 446
 00:31:17,478 --> 00:31:18,878
-VocÍ pediu
+Voc√™ pediu
 
 447
 00:31:18,879 --> 00:31:21,001
@@ -2070,13 +2070,13 @@ e eu escolhi o sr. Bolseiro.
 
 449
 00:31:22,852 --> 00:31:25,793
-H· muito mais nele
+H√° muito mais nele
 do que aparenta.
 
 450
 00:31:25,794 --> 00:31:28,834
 E tem mais a oferecer
-do que vocÍs imaginam.
+do que voc√™s imaginam.
 
 451
 00:31:30,065 --> 00:31:31,680
@@ -2096,8 +2096,8 @@ Faremos do seu jeito.
 
 455
 00:31:45,574 --> 00:31:47,439
-- N„o, n„o...
-- DÍ o contrato a ele.
+- N√£o, n√£o...
+- D√™ o contrato a ele.
 
 456
 00:31:47,440 --> 00:31:49,099
@@ -2105,13 +2105,13 @@ Conseguimos!
 
 457
 00:31:49,100 --> 00:31:51,901
-… sÛ o de costume
+√â s√≥ o de costume
 da lista de despesas,
 
 458
 00:31:51,902 --> 00:31:54,249
-tempo necess·rio,
-remuneraÁ„o,
+tempo necess√°rio,
+remunera√ß√£o,
 
 459
 00:31:54,250 --> 00:31:56,212
@@ -2124,8 +2124,8 @@ Arranjos de funeral?
 
 461
 00:32:03,803 --> 00:32:05,981
-Eu n„o posso garantir
-a seguranÁa dele.
+Eu n√£o posso garantir
+a seguran√ßa dele.
 
 462
 00:32:05,982 --> 00:32:07,382
@@ -2133,7 +2133,7 @@ Entendido.
 
 463
 00:32:08,001 --> 00:32:10,558
-Tampouco serei respons·vel
+Tampouco serei respons√°vel
 pelo destino dele.
 
 464
@@ -2143,7 +2143,7 @@ De acordo.
 465
 00:32:15,776 --> 00:32:20,955
 Recompensa em dinheiro,
-n„o excedendo 1/14 do total.
+n√£o excedendo 1/14 do total.
 
 466
 00:32:20,956 --> 00:32:22,472
@@ -2152,38 +2152,38 @@ Parece justo.
 467
 00:32:22,473 --> 00:32:25,102
 A presente companhia
-n„o ser· respons·vel
+n√£o ser√° respons√°vel
 
 468
 00:32:25,103 --> 00:32:29,343
 por ferimentos causados por
-ou em decorrÍncia de...
+ou em decorr√™ncia de...
 
 469
 00:32:30,253 --> 00:32:32,155
-LaceraÁıes.
+Lacera√ß√µes.
 
 470
 00:32:33,250 --> 00:32:34,688
-EvisceraÁ„o?
+Eviscera√ß√£o?
 
 471
 00:32:37,348 --> 00:32:39,178
-IncineraÁ„o?
+Incinera√ß√£o?
 
 472
 00:32:39,179 --> 00:32:41,675
-Ele pıe sua carne em chamas
+Ele p√µe sua carne em chamas
 em um piscar de olhos.
 
 473
 00:32:46,716 --> 00:32:49,700
-- VocÍ est· bem, rapaz?
+- Voc√™ est√° bem, rapaz?
 - Estou...
 
 474
 00:32:51,567 --> 00:32:53,205
-SÛ um pouco tonto.
+S√≥ um pouco tonto.
 
 475
 00:32:53,206 --> 00:32:55,413
@@ -2201,16 +2201,16 @@ uma dor absurda e pronto...
 
 478
 00:32:59,876 --> 00:33:01,753
-VocÍ n„o passa
+Voc√™ n√£o passa
 de um monte de cinzas.
 
 479
 00:33:08,232 --> 00:33:09,714
-N„o.
+N√£o.
 
 480
 00:33:10,331 --> 00:33:12,413
-N„o ajudou muito,
+N√£o ajudou muito,
 Bofur.
 
 481
@@ -2219,13 +2219,13 @@ Vou ficar bem.
 
 482
 00:33:13,815 --> 00:33:15,461
-SÛ me deixe ficar sentado
+S√≥ me deixe ficar sentado
 um pouco.
 
 483
 00:33:15,462 --> 00:33:18,300
-VocÍ est· sentado
-h· muito tempo.
+Voc√™ est√° sentado
+h√° muito tempo.
 
 484
 00:33:18,911 --> 00:33:20,341
@@ -2234,12 +2234,12 @@ Responda...
 485
 00:33:20,342 --> 00:33:23,417
 Quando descansos
-e a louÁa da sua m„e
+e a lou√ßa da sua m√£e
 
 486
 00:33:23,418 --> 00:33:25,587
-se tornaram t„o importantes
-para vocÍ?
+se tornaram t√£o importantes
+para voc√™?
 
 487
 00:33:25,588 --> 00:33:27,256
@@ -2253,7 +2253,7 @@ na floresta.
 
 489
 00:33:30,384 --> 00:33:32,320
-Ficava fora atÈ tarde.
+Ficava fora at√© tarde.
 
 490
 00:33:32,321 --> 00:33:34,210
@@ -2271,35 +2271,35 @@ que daria tudo
 
 493
 00:33:39,995 --> 00:33:43,655
-para explorar alÈm
+para explorar al√©m
 das fronteiras do Condado.
 
 494
 00:33:44,483 --> 00:33:48,097
-O mundo n„o est·
+O mundo n√£o est√°
 nos seus livros e mapas.
 
 495
 00:33:49,544 --> 00:33:51,401
-Est· l· fora.
+Est√° l√° fora.
 
 496
 00:33:52,630 --> 00:33:55,375
-N„o posso simplesmente correr
+N√£o posso simplesmente correr
 para o desconhecido.
 
 497
 00:33:55,376 --> 00:33:58,839
-Sou um Bolseiro de Bols„o.
+Sou um Bolseiro de Bols√£o.
 
 498
 00:33:58,840 --> 00:34:01,091
-VocÍ tambÈm È um T˚k.
+Voc√™ tamb√©m √© um T√ªk.
 
 499
 00:34:02,953 --> 00:34:07,481
-Sabia que um de seus tios-avÙs,
-Urratouro T˚k, era t„o grande,
+Sabia que um de seus tios-av√¥s,
+Urratouro T√ªk, era t√£o grande,
 
 500
 00:34:07,482 --> 00:34:09,745
@@ -2313,21 +2313,21 @@ E ele podia!
 502
 00:34:11,634 --> 00:34:14,474
 Na Batalha dos Campos Verdes,
-ele atacou o pelot„o dos orcs.
+ele atacou o pelot√£o dos orcs.
 
 503
 00:34:14,475 --> 00:34:16,378
-Ele foi t„o pesado no taco,
+Ele foi t√£o pesado no taco,
 
 504
 00:34:16,379 --> 00:34:18,624
-que arrancou a cabeÁa
+que arrancou a cabe√ßa
 do rei dos orcs
 
 505
 00:34:18,625 --> 00:34:22,390
-e a lanÁou por 100 jardas
-atÈ cair em uma toca de coelho.
+e a lan√ßou por 100 jardas
+at√© cair em uma toca de coelho.
 
 506
 00:34:23,196 --> 00:34:24,892
@@ -2340,26 +2340,26 @@ foi inventado o golfe.
 
 508
 00:34:31,806 --> 00:34:33,356
-Acho que vocÍ inventou isso.
+Acho que voc√™ inventou isso.
 
 509
 00:34:34,037 --> 00:34:37,439
-Toda boa histÛria
+Toda boa hist√≥ria
 merece um polimento.
 
 510
 00:34:39,261 --> 00:34:43,125
-VocÍ ter· a sua para contar
+Voc√™ ter√° a sua para contar
 quando voltar.
 
 511
 00:34:47,020 --> 00:34:49,056
-VocÍ promete
+Voc√™ promete
 que eu vou voltar?
 
 512
 00:34:50,997 --> 00:34:52,408
-N„o.
+N√£o.
 
 513
 00:34:53,042 --> 00:34:54,840
@@ -2367,26 +2367,26 @@ E se voltar...
 
 514
 00:34:55,831 --> 00:34:57,783
-vocÍ n„o ser· o mesmo.
+voc√™ n√£o ser√° o mesmo.
 
 515
 00:34:59,476 --> 00:35:01,304
-Eu j· imaginava.
+Eu j√° imaginava.
 
 516
 00:35:02,581 --> 00:35:05,108
 Desculpe, Gandalf,
-n„o posso assinar isso.
+n√£o posso assinar isso.
 
 517
 00:35:06,929 --> 00:35:09,032
-VocÍ escolheu
+Voc√™ escolheu
 o hobbit errado.
 
 518
 00:35:15,989 --> 00:35:19,005
 Parece que perdemos
-o nosso ladr„o.
+o nosso ladr√£o.
 
 519
 00:35:20,538 --> 00:35:22,115
@@ -2395,11 +2395,11 @@ Deve ter sido o melhor.
 520
 00:35:22,763 --> 00:35:25,299
 As chances estavam sempre
-contra nÛs.
+contra n√≥s.
 
 521
 00:35:25,300 --> 00:35:27,805
-Afinal, o que nÛs somos?
+Afinal, o que n√≥s somos?
 
 522
 00:35:28,870 --> 00:35:31,187
@@ -2412,11 +2412,11 @@ e fabricantes de brinquedos.
 
 524
 00:35:35,460 --> 00:35:37,797
-N„o o material de lendas.
+N√£o o material de lendas.
 
 525
 00:35:37,798 --> 00:35:40,371
-TambÈm temos alguns guerreiros.
+Tamb√©m temos alguns guerreiros.
 
 526
 00:35:41,422 --> 00:35:43,548
@@ -2424,11 +2424,11 @@ Velhos guerreiros.
 
 527
 00:35:43,549 --> 00:35:45,860
-Prefiro esses anıes
+Prefiro esses an√µes
 
 528
 00:35:45,861 --> 00:35:47,753
-a um exÈrcito
+a um ex√©rcito
 das Colinas de Ferro.
 
 529
@@ -2450,30 +2450,30 @@ Boa vontade...
 
 533
 00:35:58,665 --> 00:36:00,993
-… tudo o que peÁo.
+√â tudo o que pe√ßo.
 
 534
 00:36:01,848 --> 00:36:04,139
-N„o precisa fazer isso.
+N√£o precisa fazer isso.
 
 535
 00:36:04,140 --> 00:36:06,099
-VocÍ tem uma escolha.
+Voc√™ tem uma escolha.
 
 536
 00:36:06,100 --> 00:36:08,956
-VocÍ agiu com honra
+Voc√™ agiu com honra
 pelo nosso povo.
 
 537
 00:36:09,700 --> 00:36:13,042
-VocÍ nos deu uma nova vida
+Voc√™ nos deu uma nova vida
 nas Montanhas Azuis.
 
 538
 00:36:13,900 --> 00:36:16,461
-Uma vida pacÌfica
-e prÛspera.
+Uma vida pac√≠fica
+e pr√≥spera.
 
 539
 00:36:17,900 --> 00:36:22,313
@@ -2482,7 +2482,7 @@ que todo o ouro em Erebor.
 
 540
 00:36:23,439 --> 00:36:28,107
-Do meu avÙ ao meu pai,
+Do meu av√¥ ao meu pai,
 isso chegou a mim.
 
 541
@@ -2491,20 +2491,20 @@ Eles sonharam com o dia
 
 542
 00:36:31,086 --> 00:36:34,123
-em que os anıes de Erebor
+em que os an√µes de Erebor
 retomariam sua terra natal.
 
 543
 00:36:35,679 --> 00:36:37,579
-N„o h· escolha, Balin.
+N√£o h√° escolha, Balin.
 
 544
 00:36:39,682 --> 00:36:41,103
-N„o para mim.
+N√£o para mim.
 
 545
 00:36:43,300 --> 00:36:45,050
-Ent„o vamos com vocÍ,
+Ent√£o vamos com voc√™,
 rapaz.
 
 546
@@ -2513,7 +2513,7 @@ Vamos fazer acontecer.
 
 547
 00:37:11,483 --> 00:37:14,482
-<i>Para alÈm</i>
+<i>Para al√©m</i>
 
 548
 00:37:14,483 --> 00:37:19,094
@@ -2526,7 +2526,7 @@ frias</i>
 
 550
 00:37:25,000 --> 00:37:28,581
-<i>calabouÁos perdidos</i>
+<i>calabou√ßos perdidos</i>
 
 551
 00:37:29,404 --> 00:37:32,852
@@ -2542,7 +2542,7 @@ frias</i>
 
 554
 00:37:43,127 --> 00:37:47,237
-<i>h· muito esquecidos</i>
+<i>h√° muito esquecidos</i>
 
 555
 00:37:47,995 --> 00:37:51,346
@@ -2570,7 +2570,7 @@ frias</i>
 
 561
 00:38:15,230 --> 00:38:19,123
-<i>As ·rvores-tochas</i>
+<i>As √°rvores-tochas</i>
 
 562
 00:38:19,124 --> 00:38:22,790
@@ -2578,7 +2578,7 @@ frias</i>
 
 563
 00:39:03,320 --> 00:39:04,768
-Ol·.
+Ol√°.
 
 564
 00:39:48,692 --> 00:39:50,527
@@ -2592,7 +2592,7 @@ BALIN, FILHO DE FUNDIN
 
 566
 00:39:52,291 --> 00:39:53,806
-LADR√O:
+LADR√ÉO:
 
 567
 00:40:31,500 --> 00:40:33,037
@@ -2601,12 +2601,12 @@ para onde vai?
 
 568
 00:40:33,038 --> 00:40:34,909
-N„o posso parar.
-J· estou atrasado!
+N√£o posso parar.
+J√° estou atrasado!
 
 569
 00:40:34,910 --> 00:40:36,315
-Atrasado para o quÍ?
+Atrasado para o qu√™?
 
 570
 00:40:36,316 --> 00:40:38,642
@@ -2635,31 +2635,31 @@ Bem-vindo, sr. Bolseiro...
 
 576
 00:41:28,650 --> 00:41:32,355
-‡ Companhia
+√† Companhia
 de Thorin Escudo-de-Carvalho.
 
 577
 00:41:37,680 --> 00:41:39,300
-DÍ um pÙnei a ele.
+D√™ um p√¥nei a ele.
 
 578
 00:41:39,301 --> 00:41:40,990
-N„o, n„o...
-N„o È preciso.
+N√£o, n√£o...
+N√£o √© preciso.
 
 579
 00:41:40,991 --> 00:41:43,386
 Tenho certeza
-de que posso acompanhar a pÈ.
+de que posso acompanhar a p√©.
 
 580
 00:41:43,387 --> 00:41:45,634
-J· tive a minha parcela
+J√° tive a minha parcela
 de caminhadas.
 
 581
 00:41:46,347 --> 00:41:48,286
-Cheguei atÈ Sap‚ntano
+Cheguei at√© Sap√¢ntano
 uma vez.
 
 582
@@ -2674,26 +2674,26 @@ Hora de pagar.
 
 584
 00:42:07,919 --> 00:42:09,339
-O que eles est„o fazendo?
+O que eles est√£o fazendo?
 
 585
 00:42:10,019 --> 00:42:14,136
 Eles apostaram
-se vocÍ apareceria ou n„o.
+se voc√™ apareceria ou n√£o.
 
 586
 00:42:14,900 --> 00:42:17,078
 A maioria apostou
-que n„o viria.
+que n√£o viria.
 
 587
 00:42:19,120 --> 00:42:20,637
-O que vocÍ achou?
+O que voc√™ achou?
 
 588
 00:42:25,100 --> 00:42:28,835
 Meu caro...
-N„o duvidei nem um segundo.
+N√£o duvidei nem um segundo.
 
 589
 00:42:35,069 --> 00:42:38,268
@@ -2708,11 +2708,11 @@ Parem!
 591
 00:42:43,377 --> 00:42:47,018
 - Temos que voltar.
-- Qual È o problema?
+- Qual √© o problema?
 
 592
 00:42:47,019 --> 00:42:48,505
-Esqueci meu lenÁo.
+Esqueci meu len√ßo.
 
 593
 00:42:48,506 --> 00:42:49,908
@@ -2729,7 +2729,7 @@ Avante.
 596
 00:43:05,400 --> 00:43:08,019
 <i>Vai ter que se virar
-sem lenÁos de bolso</i>
+sem len√ßos de bolso</i>
 
 597
 00:43:08,020 --> 00:43:10,787
@@ -2743,30 +2743,30 @@ ao fim da nossa jornada.</i>
 
 599
 00:43:14,826 --> 00:43:19,480
-<i>VocÍ nasceu nas colinas Ìngremes
+<i>Voc√™ nasceu nas colinas √≠ngremes
 e riachos do Condado.</i>
 
 600
 00:43:20,853 --> 00:43:23,274
-<i>Mas seu lar ficou para tr·s.</i>
+<i>Mas seu lar ficou para tr√°s.</i>
 
 601
 00:43:24,290 --> 00:43:26,931
-<i>O mundo est· ‡ frente.</i>
+<i>O mundo est√° √† frente.</i>
 
 602
 00:44:08,000 --> 00:44:10,756
-Ol·, menina.
-Quem È uma boa menina?
+Ol√°, menina.
+Quem √© uma boa menina?
 
 603
 00:44:14,900 --> 00:44:16,999
-… nosso segredinho,
+√â nosso segredinho,
 Murta.
 
 604
 00:44:17,000 --> 00:44:18,532
-N„o conte a ninguÈm.
+N√£o conte a ningu√©m.
 
 605
 00:44:23,612 --> 00:44:25,112
@@ -2783,53 +2783,53 @@ Orcs?
 608
 00:44:30,600 --> 00:44:33,342
 Cortadores de garganta.
-Deve ter v·rios por aÌ.
+Deve ter v√°rios por a√≠.
 
 609
 00:44:34,022 --> 00:44:35,955
-As planÌcies
-est„o infestadas deles.
+As plan√≠cies
+est√£o infestadas deles.
 
 610
 00:44:35,956 --> 00:44:39,280
 Atacam naquelas horas
-em que todos est„o dormindo.
+em que todos est√£o dormindo.
 
 611
 00:44:39,281 --> 00:44:42,266
-R·pido e em silÍncio.
-Sem gritos. SÛ muito sangue.
+R√°pido e em sil√™ncio.
+Sem gritos. S√≥ muito sangue.
 
 612
 00:44:46,950 --> 00:44:48,391
-Acham engraÁado?
+Acham engra√ßado?
 
 613
 00:44:50,500 --> 00:44:52,912
 Acham que um ataque noturno
-de orcs È uma piada?
+de orcs √© uma piada?
 
 614
 00:44:53,551 --> 00:44:55,344
-N„o querÌamos dizer isso.
+N√£o quer√≠amos dizer isso.
 
 615
 00:44:55,948 --> 00:44:57,354
-N„o, n„o queriam.
+N√£o, n√£o queriam.
 
 616
 00:44:58,124 --> 00:44:59,822
-VocÍs n„o sabem nada
+Voc√™s n√£o sabem nada
 do mundo.
 
 617
 00:45:02,127 --> 00:45:03,842
-N„o liguem para ele,
+N√£o liguem para ele,
 rapazes.
 
 618
 00:45:04,630 --> 00:45:07,074
-Thorin tem v·rios motivos
+Thorin tem v√°rios motivos
 
 619
 00:45:07,692 --> 00:45:09,314
@@ -2837,28 +2837,28 @@ para odiar orcs.
 
 620
 00:45:14,014 --> 00:45:16,577
-Quando o drag„o ocupou
-a Montanha Solit·ria,
+Quando o drag√£o ocupou
+a Montanha Solit√°ria,
 
 621
 00:45:17,424 --> 00:45:22,648
-o rei ThrÛr tentou recuperar
-o antigo reino an„o de Moria.
+o rei Thr√≥r tentou recuperar
+o antigo reino an√£o de Moria.
 
 622
 00:45:24,999 --> 00:45:28,070
 <i>Mas nosso inimigo
-chegou l· primeiro.</i>
+chegou l√° primeiro.</i>
 
 623
 00:45:40,582 --> 00:45:44,836
 <i>Moria fora tomada
-por legiıes de orcs,</i>
+por legi√µes de orcs,</i>
 
 624
 00:45:44,837 --> 00:45:49,140
 <i>lideradas pelo mais cruel
-de sua raÁa...</i>
+de sua ra√ßa...</i>
 
 625
 00:45:50,000 --> 00:45:51,400
@@ -2880,7 +2880,7 @@ a linhagem de Durin.
 
 629
 00:46:07,743 --> 00:46:09,292
-Ele comeÁou...
+Ele come√ßou...
 
 630
 00:46:10,467 --> 00:46:12,275
@@ -2888,7 +2888,7 @@ decapitando o rei.
 
 631
 00:46:23,830 --> 00:46:26,534
-N„o!
+N√£o!
 
 632
 00:46:27,963 --> 00:46:32,409
@@ -2902,11 +2902,11 @@ foi aprisionado ou morto...
 
 634
 00:46:36,258 --> 00:46:38,398
-n„o sabemos.
+n√£o sabemos.
 
 635
 00:46:39,058 --> 00:46:40,643
-Est·vamos sem lÌder.
+Est√°vamos sem l√≠der.
 
 636
 00:46:41,435 --> 00:46:45,017
@@ -2914,7 +2914,7 @@ Est·vamos sem lÌder.
 
 637
 00:46:45,018 --> 00:46:46,528
-<i>avanÁavam.</i>
+<i>avan√ßavam.</i>
 
 638
 00:46:49,850 --> 00:46:53,070
@@ -2922,13 +2922,13 @@ Foi quando eu o vi.
 
 639
 00:46:56,075 --> 00:47:01,789
-<i>Um jovem prÌncipe an„o
-enfrentando o orc p·lido.</i>
+<i>Um jovem pr√≠ncipe an√£o
+enfrentando o orc p√°lido.</i>
 
 640
 00:47:06,500 --> 00:47:10,717
-<i>Ele lutou sÛ
-contra o terrÌvel advers·rio.</i>
+<i>Ele lutou s√≥
+contra o terr√≠vel advers√°rio.</i>
 
 641
 00:47:19,650 --> 00:47:21,313
@@ -2940,7 +2940,7 @@ contra o terrÌvel advers·rio.</i>
 
 643
 00:47:22,738 --> 00:47:25,602
-<i>alÈm de um galho de carvalho
+<i>al√©m de um galho de carvalho
 como escudo.</i>
 
 644
@@ -2951,11 +2951,11 @@ aprendeu naquele dia...</i>
 645
 00:47:43,364 --> 00:47:48,002
 que a linhagem de Durin
-n„o seria destruÌda facilmente.
+n√£o seria destru√≠da facilmente.
 
 646
 00:48:15,900 --> 00:48:17,333
-<i>NÛs retrucamos</i>
+<i>N√≥s retrucamos</i>
 
 647
 00:48:18,531 --> 00:48:20,821
@@ -2967,7 +2967,7 @@ n„o seria destruÌda facilmente.
 
 649
 00:48:28,459 --> 00:48:30,198
-Mas n„o houve banquete...
+Mas n√£o houve banquete...
 
 650
 00:48:31,252 --> 00:48:33,474
@@ -2980,27 +2980,27 @@ superava a de luto.</i>
 
 652
 00:48:40,500 --> 00:48:43,445
-<i>Poucos de nÛs
+<i>Poucos de n√≥s
 haviam sobrevivido.</i>
 
 653
 00:48:50,773 --> 00:48:53,463
-<i>Ent„o eu pensei
+<i>Ent√£o eu pensei
 comigo mesmo...</i>
 
 654
 00:48:56,650 --> 00:49:00,311
-<i>Ali estava alguÈm
+<i>Ali estava algu√©m
 que eu poderia seguir.</i>
 
 655
 00:49:03,152 --> 00:49:07,965
-Ali estava alguÈm
+Ali estava algu√©m
 que eu poderia chamar de rei.
 
 656
 00:49:26,809 --> 00:49:28,225
-E o orc p·lido...
+E o orc p√°lido...
 
 657
 00:49:30,454 --> 00:49:32,318
@@ -3014,7 +3014,7 @@ de onde veio.
 659
 00:49:36,320 --> 00:49:39,780
 O maldito morreu dos ferimentos
-h· muito tempo.
+h√° muito tempo.
 
 660
 00:50:02,590 --> 00:50:05,157
@@ -3022,22 +3022,22 @@ h· muito tempo.
 
 661
 00:50:06,580 --> 00:50:10,190
-<i>que nÛs encontramos
-as escÛrias an„s.</i>
+<i>que n√≥s encontramos
+as esc√≥rias an√£s.</i>
 
 662
 00:50:26,400 --> 00:50:30,189
 Sr. Gandalf, pode fazer algo
-com esse dil˙vio?
+com esse dil√∫vio?
 
 663
 00:50:30,190 --> 00:50:32,789
-Est· chovendo,
-mestre an„o.
+Est√° chovendo,
+mestre an√£o.
 
 664
 00:50:32,790 --> 00:50:36,369
-E continuar· atÈ cessar.
+E continuar√° at√© cessar.
 
 665
 00:50:37,421 --> 00:50:41,300
@@ -3047,21 +3047,21 @@ procure outro mago.
 666
 00:50:42,620 --> 00:50:44,300
 - Existem outros?
-- O quÍ?
+- O qu√™?
 
 667
 00:50:44,301 --> 00:50:47,016
 - Outros magos?
-- Existem cinco de nÛs.
+- Existem cinco de n√≥s.
 
 668
 00:50:47,017 --> 00:50:51,627
 O maior da nossa Ordem
-È Saruman, o Branco.
+√© Saruman, o Branco.
 
 669
 00:50:51,628 --> 00:50:53,909
-H· tambÈm
+H√° tamb√©m
 dois magos azuis...
 
 670
@@ -3071,25 +3071,25 @@ o nome deles.
 
 671
 00:50:59,000 --> 00:51:00,672
-E quem È o quinto?
+E quem √© o quinto?
 
 672
 00:51:00,673 --> 00:51:04,016
-… Radagast, o Castanho.
+√â Radagast, o Castanho.
 
 673
 00:51:04,682 --> 00:51:08,494
-Ele È um grande mago
-ou È como vocÍ?
+Ele √© um grande mago
+ou √© como voc√™?
 
 674
 00:51:10,500 --> 00:51:14,560
-Acho que È um grande mago...
+Acho que √© um grande mago...
 do jeito dele.
 
 675
 00:51:15,459 --> 00:51:19,999
-Ele tem uma alma sensÌvel
+Ele tem uma alma sens√≠vel
 e prefere companhia de animais.
 
 676
@@ -3099,12 +3099,12 @@ ao leste.
 
 677
 00:51:24,300 --> 00:51:26,002
-<i>O que È bom,</i>
+<i>O que √© bom,</i>
 
 678
 00:51:26,003 --> 00:51:28,410
 <i>pois o mal
-sempre tentar· encontrar</i>
+sempre tentar√° encontrar</i>
 
 679
 00:51:28,411 --> 00:51:30,738
@@ -3113,15 +3113,15 @@ neste mundo.</i>
 
 680
 00:51:37,272 --> 00:51:38,672
-Isso n„o È bom.
+Isso n√£o √© bom.
 
 681
 00:51:39,371 --> 00:51:40,784
-N„o È nada bom!
+N√£o √© nada bom!
 
 682
 00:52:04,800 --> 00:52:06,417
-Essa n„o...
+Essa n√£o...
 
 683
 00:52:06,418 --> 00:52:07,945
@@ -3133,17 +3133,17 @@ Minha nossa.
 
 685
 00:52:33,800 --> 00:52:36,785
-Cheguem para tr·s!
+Cheguem para tr√°s!
 Deixem-no respirar, por favor!
 
 686
 00:52:49,970 --> 00:52:52,799
-N„o sei por que
-n„o est· funcionando.
+N√£o sei por que
+n√£o est√° funcionando.
 
 687
 00:52:52,800 --> 00:52:55,130
-N„o È uma bruxaria.
+N√£o √© uma bruxaria.
 
 688
 00:52:58,228 --> 00:53:00,228
@@ -3151,7 +3151,7 @@ Bruxaria...
 
 689
 00:53:03,420 --> 00:53:05,515
-Mas È.
+Mas √©.
 
 690
 00:53:06,737 --> 00:53:12,647
@@ -3160,7 +3160,7 @@ Uma magia negra e poderosa.
 691
 00:54:44,227 --> 00:54:48,863
 De onde vieram
-essas criaturas abomin·veis?
+essas criaturas abomin√°veis?
 
 692
 00:54:51,000 --> 00:54:52,467
@@ -3177,7 +3177,7 @@ Vamos passar a noite aqui.
 695
 00:55:30,078 --> 00:55:32,635
 <i>Fili, Kili...
-Cuidem dos pÙneis.</i>
+Cuidem dos p√¥neis.</i>
 
 696
 00:55:32,636 --> 00:55:34,702
@@ -3185,13 +3185,13 @@ Cuidem dos pÙneis.</i>
 
 697
 00:55:34,703 --> 00:55:38,471
-Um fazendeiro e sua famÌlia
+Um fazendeiro e sua fam√≠lia
 moravam aqui.
 
 698
 00:55:39,141 --> 00:55:42,277
 Oin, Gloin...
-FaÁam uma fogueira.
+Fa√ßam uma fogueira.
 
 699
 00:55:42,994 --> 00:55:46,291
@@ -3200,37 +3200,37 @@ seguirmos em frente.
 
 700
 00:55:47,708 --> 00:55:49,988
-PoderÌamos ir
+Poder√≠amos ir
 pelo Vale Escondido.
 
 701
 00:55:50,905 --> 00:55:53,255
-Eu j· disse...
+Eu j√° disse...
 
 702
 00:55:53,256 --> 00:55:55,062
-N„o vou passar
+N√£o vou passar
 perto daquele lugar.
 
 703
 00:55:55,063 --> 00:55:57,883
-Por que n„o?
+Por que n√£o?
 Os elfos podem nos ajudar.
 
 704
 00:55:57,884 --> 00:56:00,164
-ConseguirÌamos comida,
+Conseguir√≠amos comida,
 descanso, conselho.
 
 705
 00:56:00,165 --> 00:56:02,124
-Eu n„o preciso
+Eu n√£o preciso
 do conselho deles.
 
 706
 00:56:02,125 --> 00:56:04,551
 Temos um mapa
-que n„o podemos ler.
+que n√£o podemos ler.
 
 707
 00:56:04,552 --> 00:56:06,573
@@ -3243,7 +3243,7 @@ Ajudar?
 
 709
 00:56:08,782 --> 00:56:10,441
-Um drag„o atacou Erebor,
+Um drag√£o atacou Erebor,
 
 710
 00:56:11,190 --> 00:56:13,194
@@ -3257,48 +3257,48 @@ Orcs saquearam Moria
 712
 00:56:16,381 --> 00:56:18,707
 e profanaram
-nossos Salıes Sagrados.
+nossos Sal√µes Sagrados.
 
 713
 00:56:18,708 --> 00:56:21,665
 Os elfos observaram
-e n„o fizeram nada.
+e n√£o fizeram nada.
 
 714
 00:56:22,660 --> 00:56:24,649
-Est· me pedindo
+Est√° me pedindo
 para procurar as pessoas
 
 715
 00:56:24,650 --> 00:56:28,608
-que traÌram meu avÙ
+que tra√≠ram meu av√¥
 e meu pai.
 
 716
 00:56:28,609 --> 00:56:30,540
-VocÍ n„o È eles.
+Voc√™ n√£o √© eles.
 
 717
 00:56:31,349 --> 00:56:34,587
-N„o dei o mapa e a chave
+N√£o dei o mapa e a chave
 para se prender ao passado.
 
 718
 00:56:34,588 --> 00:56:36,994
-Eu n„o sabia que eram seus
+Eu n√£o sabia que eram seus
 por direito.
 
 719
 00:56:43,121 --> 00:56:44,625
-Est· tudo bem?
+Est√° tudo bem?
 
 720
 00:56:44,626 --> 00:56:46,054
-Gandalf, aonde est· indo?
+Gandalf, aonde est√° indo?
 
 721
 00:56:46,055 --> 00:56:49,719
-Procurar companhia do ˙nico aqui
+Procurar companhia do √∫nico aqui
 que tem senso.
 
 722
@@ -3308,7 +3308,7 @@ que tem senso.
 
 723
 00:56:52,690 --> 00:56:55,747
-J· tive o bastante dos anıes
+J√° tive o bastante dos an√µes
 por um dia.
 
 724
@@ -3318,11 +3318,11 @@ estamos com fome.
 
 725
 00:56:59,736 --> 00:57:01,553
-Ele voltar·?
+Ele voltar√°?
 
 726
 00:57:06,262 --> 00:57:07,675
-J· faz algum tempo.
+J√° faz algum tempo.
 
 727
 00:57:07,676 --> 00:57:09,413
@@ -3331,26 +3331,26 @@ J· faz algum tempo.
 
 728
 00:57:09,414 --> 00:57:11,678
-Ele È mago!
+Ele √© mago!
 Faz o que quer.
 
 729
 00:57:11,679 --> 00:57:14,195
-Tome, nos faÁa um favor...
+Tome, nos fa√ßa um favor...
 Leve para os rapazes.
 
 730
 00:57:15,224 --> 00:57:17,044
-Pare, j· serviu o bastante.
+Pare, j√° serviu o bastante.
 
 731
 00:57:35,597 --> 00:57:36,997
-Qual È o problema?
+Qual √© o problema?
 
 732
 00:57:36,998 --> 00:57:38,807
-NÛs deverÌamos cuidar
-dos pÙneis.
+N√≥s dever√≠amos cuidar
+dos p√¥neis.
 
 733
 00:57:38,808 --> 00:57:41,478
@@ -3359,7 +3359,7 @@ um pequeno problema.
 
 734
 00:57:42,160 --> 00:57:43,837
-TÌnhamos dezesseis.
+T√≠nhamos dezesseis.
 
 735
 00:57:43,838 --> 00:57:46,827
@@ -3368,39 +3368,39 @@ Agora temos quatorze.
 736
 00:57:50,058 --> 00:57:51,752
 Margarida e Bungo
-est„o desaparecidos.
+est√£o desaparecidos.
 
 737
 00:57:52,673 --> 00:57:54,099
-Isso n„o È bom.
+Isso n√£o √© bom.
 
 738
 00:57:54,883 --> 00:57:56,516
-E n„o È nada bom.
+E n√£o √© nada bom.
 
 739
 00:57:56,517 --> 00:57:58,216
-N„o deverÌamos contar
+N√£o dever√≠amos contar
 para Thorin?
 
 740
 00:57:58,217 --> 00:58:00,417
-N„o...
-N„o vamos preocup·-lo.
+N√£o...
+N√£o vamos preocup√°-lo.
 
 741
 00:58:00,418 --> 00:58:04,141
-Como nosso ladr„o oficial,
-vocÍ poderia investigar isso.
+Como nosso ladr√£o oficial,
+voc√™ poderia investigar isso.
 
 742
 00:58:06,150 --> 00:58:09,399
 Uma coisa grande
-arrancou essas ·rvores.
+arrancou essas √°rvores.
 
 743
 00:58:09,400 --> 00:58:10,800
-Era o que est·vamos
+Era o que est√°vamos
 pensando.
 
 744
@@ -3422,7 +3422,7 @@ Fique abaixado.
 
 748
 00:58:29,212 --> 00:58:30,619
-O que È?
+O que √©?
 
 749
 00:58:31,398 --> 00:58:33,140
@@ -3434,27 +3434,27 @@ Ele pegou Murta e Mindy!
 
 751
 00:59:02,686 --> 00:59:04,841
-Acho que v„o comÍ-las.
+Acho que v√£o com√™-las.
 Temos que fazer algo.
 
 752
 00:59:05,474 --> 00:59:07,898
-Sim, vocÍ tem.
+Sim, voc√™ tem.
 
 753
 00:59:07,899 --> 00:59:09,883
 Trolls montanheses
-s„o lentos e burros,
+s√£o lentos e burros,
 
 754
 00:59:09,884 --> 00:59:11,782
-e vocÍ È t„o pequeno,
-que nem v„o perceber.
+e voc√™ √© t√£o pequeno,
+que nem v√£o perceber.
 
 755
 00:59:11,783 --> 00:59:13,701
-… seguro.
-Estaremos logo atr·s.
+√â seguro.
+Estaremos logo atr√°s.
 
 756
 00:59:13,702 --> 00:59:15,102
@@ -3477,8 +3477,8 @@ e uma como marrom?
 
 760
 00:59:21,466 --> 00:59:23,273
-TÍm certeza
-de que È uma boa ideia?
+T√™m certeza
+de que √© uma boa ideia?
 
 761
 00:59:23,274 --> 00:59:26,417
@@ -3487,8 +3487,8 @@ carneiro hoje,</i>
 
 762
 00:59:26,418 --> 00:59:30,523
-<i>e, maldiÁ„o,
-se n„o È carneiro amanh„.</i>
+<i>e, maldi√ß√£o,
+se n√£o √© carneiro amanh√£.</i>
 
 763
 00:59:31,139 --> 00:59:33,339
@@ -3496,34 +3496,34 @@ se n„o È carneiro amanh„.</i>
 
 764
 00:59:33,340 --> 00:59:34,882
-N„o s„o carneiros.
+N√£o s√£o carneiros.
 
 765
 00:59:35,547 --> 00:59:37,741
-S„o pÙneis!
+S√£o p√¥neis!
 
 766
 00:59:38,622 --> 00:59:40,467
-N„o gosto de cavalos.
+N√£o gosto de cavalos.
 
 767
 00:59:40,468 --> 00:59:43,300
 Nunca gostei.
-N„o tÍm muita gordura.
+N√£o t√™m muita gordura.
 
 768
 00:59:43,301 --> 00:59:47,482
-S„o melhores que o fazendeiro.
-Ele sÛ tinha pele e osso.
+S√£o melhores que o fazendeiro.
+Ele s√≥ tinha pele e osso.
 
 769
 00:59:47,483 --> 00:59:50,612
 Acho que ainda estou
-com pedaÁos nos dentes.
+com peda√ßos nos dentes.
 
 770
 00:59:51,623 --> 00:59:53,385
-Isso È ador·vel, n„o?
+Isso √© ador√°vel, n√£o?
 
 771
 00:59:53,386 --> 00:59:54,791
@@ -3547,12 +3547,12 @@ Sente-se!
 
 776
 01:00:16,002 --> 01:00:19,063
-Espero que vocÍ tire
-as vÌsceras desses pÙneis.
+Espero que voc√™ tire
+as v√≠sceras desses p√¥neis.
 
 777
 01:00:19,064 --> 01:00:21,519
-N„o gosto das partes nojentas.
+N√£o gosto das partes nojentas.
 
 778
 01:00:22,991 --> 01:00:25,312
@@ -3561,16 +3561,16 @@ Eu mandei ficar sentado!
 779
 01:00:25,313 --> 01:00:29,726
 Estou faminto!
-Vamos comer ou n„o?
+Vamos comer ou n√£o?
 
 780
 01:00:29,727 --> 01:00:33,684
 Cale a boca.
-VocÍ vai comer o que eu der.
+Voc√™ vai comer o que eu der.
 
 781
 01:00:34,428 --> 01:00:36,712
-Por que ele È o cozinheiro?
+Por que ele √© o cozinheiro?
 
 782
 01:00:36,713 --> 01:00:38,280
@@ -3590,11 +3590,11 @@ Fica com gosto de peixe!
 
 786
 01:00:43,234 --> 01:00:44,686
-Estou sÛ dizendo.
+Estou s√≥ dizendo.
 
 787
 01:00:44,687 --> 01:00:47,338
-Um pouco de valorizaÁ„o
+Um pouco de valoriza√ß√£o
 seria bom.
 
 788
@@ -3604,16 +3604,16 @@ Bela comida, Bert."
 
 789
 01:00:52,975 --> 01:00:54,565
-… t„o difÌcil assim?
+√â t√£o dif√≠cil assim?
 
 790
 01:00:57,145 --> 01:00:59,868
-SÛ um pouquinho
+S√≥ um pouquinho
 de bosta de esquilo.
 
 791
 01:01:01,331 --> 01:01:03,983
-Esse grogue È meu!
+Esse grogue √© meu!
 
 792
 01:01:05,793 --> 01:01:07,466
@@ -3621,7 +3621,7 @@ Desculpe.
 
 793
 01:01:11,758 --> 01:01:15,509
-Est· muito bem equilibrado.
+Est√° muito bem equilibrado.
 
 794
 01:01:15,510 --> 01:01:17,684
@@ -3629,7 +3629,7 @@ Prove um pouco, amigo.
 
 795
 01:01:19,404 --> 01:01:20,869
-… bom, n„o?
+√â bom, n√£o?
 
 796
 01:01:22,188 --> 01:01:24,940
@@ -3638,7 +3638,7 @@ Por isso sou o cozinheiro.
 797
 01:01:32,840 --> 01:01:34,568
 A minha barriga
-est· roncando.
+est√° roncando.
 
 798
 01:01:34,569 --> 01:01:36,903
@@ -3661,27 +3661,27 @@ do meu nariz!
 
 802
 01:01:48,465 --> 01:01:50,408
-Tem braÁos, pernas
+Tem bra√ßos, pernas
 e tudo mais.
 
 803
 01:01:50,409 --> 01:01:53,054
-- O que È isso?
-- Eu n„o sei.
+- O que √© isso?
+- Eu n√£o sei.
 
 804
 01:01:53,055 --> 01:01:55,170
-Mas eu n„o gosto do jeito
-como est· se mexendo.
+Mas eu n√£o gosto do jeito
+como est√° se mexendo.
 
 805
 01:01:58,739 --> 01:02:02,210
-O que È vocÍ?
+O que √© voc√™?
 Um esquilo gigante?
 
 806
 01:02:02,211 --> 01:02:04,226
-Sou um ladr„o...
+Sou um ladr√£o...
 Hobbit.
 
 807
@@ -3690,7 +3690,7 @@ Um ladrhobbit?
 
 808
 01:02:06,276 --> 01:02:08,317
-Podemos cozinh·-lo?
+Podemos cozinh√°-lo?
 
 809
 01:02:08,318 --> 01:02:10,981
@@ -3698,18 +3698,18 @@ Podemos tentar.
 
 810
 01:02:13,489 --> 01:02:16,039
-Ele n„o daria mais
+Ele n√£o daria mais
 que uma mordida.
 
 811
 01:02:16,040 --> 01:02:18,869
-N„o quando È sÛ pele
+N√£o quando √© s√≥ pele
 e osso.
 
 812
 01:02:19,524 --> 01:02:21,900
 Deve haver mais ladrhobbits
-nessa regi„o.
+nessa regi√£o.
 
 813
 01:02:21,901 --> 01:02:25,035
@@ -3719,7 +3719,7 @@ para uma torta.
 814
 01:02:25,036 --> 01:02:27,375
 - Peguem-no!
-- … muito r·pido!
+- √â muito r√°pido!
 
 815
 01:02:28,190 --> 01:02:30,720
@@ -3732,25 +3732,25 @@ Peguei!
 817
 01:02:32,151 --> 01:02:36,293
 Tem mais algum amiguinho
-escondido onde n„o deveria?
+escondido onde n√£o deveria?
 
 818
 01:02:36,294 --> 01:02:38,109
-N„o.
+N√£o.
 
 819
 01:02:38,110 --> 01:02:40,748
-- Est· mentindo.
-- N„o estou!
+- Est√° mentindo.
+- N√£o estou!
 
 820
 01:02:40,749 --> 01:02:43,669
-Ponha a m„o dele
+Ponha a m√£o dele
 em cima do fogo.
 
 821
 01:02:43,670 --> 01:02:46,390
-FaÁa-o gritar.
+Fa√ßa-o gritar.
 
 822
 01:02:50,231 --> 01:02:51,648
@@ -3758,7 +3758,7 @@ Soltem-no!
 
 823
 01:02:51,649 --> 01:02:53,085
-Como È?
+Como √©?
 
 824
 01:02:53,695 --> 01:02:55,321
@@ -3775,7 +3775,7 @@ Tome essa!
 827
 01:04:14,847 --> 01:04:16,609
 - Bilbo!
-- N„o!
+- N√£o!
 
 828
 01:04:17,726 --> 01:04:19,363
@@ -3784,7 +3784,7 @@ Larguem as armas...
 829
 01:04:20,262 --> 01:04:22,337
 ou arrancaremos
-os braÁos dele.
+os bra√ßos dele.
 
 830
 01:04:38,796 --> 01:04:40,594
@@ -3792,8 +3792,8 @@ Para que cozinhar?
 
 831
 01:04:40,595 --> 01:04:45,062
-Vamos sÛ sentar neles
-e esmagar atÈ virarem geleia.
+Vamos s√≥ sentar neles
+e esmagar at√© virarem geleia.
 
 832
 01:04:45,063 --> 01:04:47,180
@@ -3802,31 +3802,31 @@ Eles precisam ser temperados
 833
 01:04:47,181 --> 01:04:49,717
 e grelhados
-com uma pitada de s·lvia.
+com uma pitada de s√°lvia.
 
 834
 01:04:49,718 --> 01:04:53,115
-- Isso È mesmo preciso?
+- Isso √© mesmo preciso?
 - Parece muito bom.
 
 835
 01:04:53,116 --> 01:04:55,167
 - Soltem-nos, monstros.
-- N„o fique se mexendo.
+- N√£o fique se mexendo.
 
 836
 01:04:56,511 --> 01:05:00,457
-EsqueÁam o tempero.
-N„o temos a noite toda.
+Esque√ßam o tempero.
+N√£o temos a noite toda.
 
 837
 01:05:00,458 --> 01:05:03,832
-O sol j· vai nascer.
-Vamos r·pido.
+O sol j√° vai nascer.
+Vamos r√°pido.
 
 838
 01:05:03,833 --> 01:05:06,963
-N„o quero ser transformado
+N√£o quero ser transformado
 em pedra.
 
 839
@@ -3835,18 +3835,18 @@ Esperem!
 
 840
 01:05:10,434 --> 01:05:13,816
-Est„o cometendo
+Est√£o cometendo
 um grande erro!
 
 841
 01:05:13,817 --> 01:05:16,255
-N„o discuta com eles.
-S„o imbecis.
+N√£o discuta com eles.
+S√£o imbecis.
 
 842
 01:05:16,256 --> 01:05:18,316
 Imbecis?
-E o que nÛs somos?
+E o que n√≥s somos?
 
 843
 01:05:18,961 --> 01:05:22,037
@@ -3858,17 +3858,17 @@ O que tem o tempero?
 
 845
 01:05:24,786 --> 01:05:26,505
-J· sentiram o cheiro deles?
+J√° sentiram o cheiro deles?
 
 846
 01:05:26,506 --> 01:05:30,116
 Precisam de algo mais forte
-que s·lvia antes de comÍ-los.
+que s√°lvia antes de com√™-los.
 
 847
 01:05:30,117 --> 01:05:33,777
 - Traidor!
-- O que sabe de cozinhar anıes?
+- O que sabe de cozinhar an√µes?
 
 848
 01:05:33,778 --> 01:05:35,203
@@ -3881,7 +3881,7 @@ Deixe o ladrhobbit falar.
 850
 01:05:39,734 --> 01:05:42,616
 O segredo
-para cozinhar anıes È...
+para cozinhar an√µes √©...
 
 851
 01:05:42,617 --> 01:05:44,017
@@ -3894,11 +3894,11 @@ Conte o segredo.
 
 853
 01:05:47,242 --> 01:05:48,696
-O segredo È...
+O segredo √©...
 
 854
 01:05:50,674 --> 01:05:52,638
-esfol·-los primeiro!
+esfol√°-los primeiro!
 
 855
 01:05:54,834 --> 01:05:57,382
@@ -3906,11 +3906,11 @@ Tom, traga a minha faca.
 
 856
 01:05:57,383 --> 01:05:59,369
-VocÍ vai pagar por isso!
+Voc√™ vai pagar por isso!
 
 857
 01:05:59,370 --> 01:06:01,486
-N„o vou esquecer isso!
+N√£o vou esquecer isso!
 
 858
 01:06:01,487 --> 01:06:04,004
@@ -3918,7 +3918,7 @@ Que monte de besteira.
 
 859
 01:06:04,005 --> 01:06:06,575
-J· comi v·rios com pele.
+J√° comi v√°rios com pele.
 
 860
 01:06:06,576 --> 01:06:08,946
@@ -3927,12 +3927,12 @@ com botas e tudo.
 
 861
 01:06:09,877 --> 01:06:12,180
-Ele est· certo.
+Ele est√° certo.
 
 862
 01:06:12,181 --> 01:06:14,812
-N„o h· nada errado
-com anıes crus.
+N√£o h√° nada errado
+com an√µes crus.
 
 863
 01:06:17,482 --> 01:06:20,304
@@ -3940,23 +3940,23 @@ Gostoso e crocante.
 
 864
 01:06:20,305 --> 01:06:22,762
-Esse n„o!
-Ele est· infectado.
+Esse n√£o!
+Ele est√° infectado.
 
 865
 01:06:23,792 --> 01:06:28,870
-- Ele o quÍ?
+- Ele o qu√™?
 - Cheio de vermes nas tripas.
 
 866
 01:06:31,596 --> 01:06:34,971
-Todos tÍm.
-Est„o infestados de parasitas.
+Todos t√™m.
+Est√£o infestados de parasitas.
 
 867
 01:06:34,972 --> 01:06:37,466
-… um negÛcio terrÌvel.
-Eu n„o arriscaria.
+√â um neg√≥cio terr√≠vel.
+Eu n√£o arriscaria.
 
 868
 01:06:38,124 --> 01:06:40,257
@@ -3965,21 +3965,21 @@ Ele disse parasitas?
 
 869
 01:06:40,258 --> 01:06:42,004
-NÛs n„o temos parasitas!
+N√≥s n√£o temos parasitas!
 
 870
 01:06:42,005 --> 01:06:43,605
-VocÍ tem!
+Voc√™ tem!
 
 871
 01:06:49,014 --> 01:06:51,595
 Tenho parasitas
-do tamanho do meu braÁo.
+do tamanho do meu bra√ßo.
 
 872
 01:06:51,596 --> 01:06:54,276
 Eu tenho os maiores!
-S„o enormes.
+S√£o enormes.
 
 873
 01:06:55,870 --> 01:06:58,094
@@ -3992,64 +3992,64 @@ O que faremos?
 
 875
 01:07:01,805 --> 01:07:04,789
-- Deix·-los ir?
+- Deix√°-los ir?
 - Bem...
 
 876
 01:07:04,790 --> 01:07:07,557
-Acha que n„o sei
-o que est· tramando?
+Acha que n√£o sei
+o que est√° tramando?
 
 877
 01:07:07,558 --> 01:07:12,049
-Esse fur„ozinho
-est· nos fazendo de bobos.
+Esse fur√£ozinho
+est√° nos fazendo de bobos.
 
 878
 01:07:12,050 --> 01:07:13,625
-- Fur„o?
+- Fur√£o?
 - Bobos?
 
 879
 01:07:13,626 --> 01:07:16,295
-Que o dia pegue todos vocÍs!
+Que o dia pegue todos voc√™s!
 
 880
 01:07:18,094 --> 01:07:20,017
-- Quem È esse?
-- N„o sei.
+- Quem √© esse?
+- N√£o sei.
 
 881
 01:07:20,018 --> 01:07:21,457
-Podemos comÍ-lo tambÈm?
+Podemos com√™-lo tamb√©m?
 
 882
 01:07:47,070 --> 01:07:49,676
-Tire o seu pÈ
+Tire o seu p√©
 das minhas costas!
 
 883
 01:07:59,343 --> 01:08:01,663
-Para onde vocÍ foi,
+Para onde voc√™ foi,
 se posso perguntar?
 
 884
 01:08:01,664 --> 01:08:03,363
-Olhar ‡ frente.
+Olhar √† frente.
 
 885
 01:08:03,364 --> 01:08:06,640
-- E o que trouxe vocÍ de volta?
-- Olhar para tr·s.
+- E o que trouxe voc√™ de volta?
+- Olhar para tr√°s.
 
 886
 01:08:07,563 --> 01:08:10,610
 Encontro perigoso.
-Mas est„o todos inteiros.
+Mas est√£o todos inteiros.
 
 887
 01:08:10,611 --> 01:08:12,497
-N„o graÁas ao seu ladr„o.
+N√£o gra√ßas ao seu ladr√£o.
 
 888
 01:08:13,502 --> 01:08:16,220
@@ -4058,7 +4058,7 @@ que precisava ganhar tempo.
 
 889
 01:08:16,828 --> 01:08:18,888
-Nenhum de vocÍs
+Nenhum de voc√™s
 pensou nisso.
 
 890
@@ -4073,17 +4073,17 @@ se aventuram no Sul?
 
 892
 01:08:27,542 --> 01:08:29,529
-Eles n„o vinham h· anos.
+Eles n√£o vinham h√° anos.
 
 893
 01:08:30,357 --> 01:08:33,608
-N„o desde que um poder sombrio
+N√£o desde que um poder sombrio
 governava essas terras.
 
 894
 01:08:39,651 --> 01:08:42,561
-Eles n„o podem andar
-‡ luz do dia.
+Eles n√£o podem andar
+√† luz do dia.
 
 895
 01:08:43,789 --> 01:08:45,700
@@ -4092,11 +4092,11 @@ por perto.
 
 896
 01:08:57,199 --> 01:08:59,151
-Que cheiro È esse?
+Que cheiro √© esse?
 
 897
 01:08:59,152 --> 01:09:01,628
-… um esconderijo de trolls.
+√â um esconderijo de trolls.
 
 898
 01:09:02,861 --> 01:09:04,822
@@ -4114,11 +4114,11 @@ jogado.
 
 901
 01:09:26,883 --> 01:09:28,283
-Pegue uma p·.
+Pegue uma p√°.
 
 902
 01:09:45,673 --> 01:09:47,969
-Essas espadas n„o foram feitas
+Essas espadas n√£o foram feitas
 por nenhum troll.
 
 903
@@ -4138,8 +4138,8 @@ da Primeira Era.
 
 906
 01:10:08,910 --> 01:10:11,404
-N„o poderia desejar
-uma l‚mina melhor.
+N√£o poderia desejar
+uma l√¢mina melhor.
 
 907
 01:10:27,856 --> 01:10:29,261
@@ -4147,7 +4147,7 @@ Venham.
 
 908
 01:10:37,886 --> 01:10:40,528
-Estamos fazendo um depÛsito
+Estamos fazendo um dep√≥sito
 a longo prazo.
 
 909
@@ -4166,15 +4166,15 @@ Bilbo.
 912
 01:11:09,801 --> 01:11:13,102
 Tome.
-… do seu tamanho.
+√â do seu tamanho.
 
 913
 01:11:18,874 --> 01:11:21,007
-Eu n„o posso aceitar.
+Eu n√£o posso aceitar.
 
 914
 01:11:21,008 --> 01:11:24,209
-Essa l‚mina foi feita
+Essa l√¢mina foi feita
 pelos elfos, ou seja,
 
 915
@@ -4198,7 +4198,7 @@ lembre-se do seguinte...
 
 919
 01:11:37,664 --> 01:11:42,894
-A verdadeira coragem n„o È saber
+A verdadeira coragem n√£o √© saber
 quando tirar uma vida,
 
 920
@@ -4207,7 +4207,7 @@ mas quando poupar uma.
 
 921
 01:11:51,123 --> 01:11:52,860
-Algo est· vindo!
+Algo est√° vindo!
 
 922
 01:11:52,861 --> 01:11:54,945
@@ -4216,12 +4216,12 @@ Algo est· vindo!
 
 923
 01:11:55,789 --> 01:11:59,165
-R·pido!
+R√°pido!
 Armem-se!
 
 924
 01:12:16,993 --> 01:12:18,454
-Ladrıes! Fogo!
+Ladr√µes! Fogo!
 
 925
 01:12:18,455 --> 01:12:20,163
@@ -4241,12 +4241,12 @@ O que faz aqui?
 
 929
 01:12:32,361 --> 01:12:33,838
-Procurando vocÍ,
+Procurando voc√™,
 Gandalf.
 
 930
 01:12:33,839 --> 01:12:37,756
-Algo est· errado.
+Algo est√° errado.
 Tem algo terrivelmente errado.
 
 931
@@ -4255,24 +4255,24 @@ Sim?
 
 932
 01:12:44,494 --> 01:12:45,894
-SÛ um minuto.
+S√≥ um minuto.
 
 933
 01:12:47,621 --> 01:12:49,760
-Eu guardei na memÛria,
-mas aÌ esqueci...
+Eu guardei na mem√≥ria,
+mas a√≠ esqueci...
 
 934
 01:12:49,761 --> 01:12:52,490
-Estava na ponta da lÌngua.
+Estava na ponta da l√≠ngua.
 
 935
 01:12:54,871 --> 01:12:57,243
-N„o È um pensamento.
+N√£o √© um pensamento.
 
 936
 01:12:57,244 --> 01:12:58,977
-… sÛ um pequeno...
+√â s√≥ um pequeno...
 
 937
 01:13:00,222 --> 01:13:01,684
@@ -4281,11 +4281,11 @@ bicho-pau.
 938
 01:13:05,783 --> 01:13:09,019
 A Floresta Verde
-est· doente, Gandalf.
+est√° doente, Gandalf.
 
 939
 01:13:10,020 --> 01:13:12,365
-Uma escurid„o caiu
+Uma escurid√£o caiu
 sobre ela.
 
 940
@@ -4298,11 +4298,11 @@ Pelo menos nada bom.
 
 942
 01:13:16,947 --> 01:13:19,157
-O ar est· p˙trido.
+O ar est√° p√∫trido.
 
 943
 01:13:19,971 --> 01:13:21,674
-Mas o pior s„o as teias.
+Mas o pior s√£o as teias.
 
 944
 01:13:21,675 --> 01:13:24,304
@@ -4319,12 +4319,12 @@ Gigantes.
 
 947
 01:13:28,109 --> 01:13:31,388
-Uma espÈcie de prole
+Uma esp√©cie de prole
 de Ungoliant.
 
 948
 01:13:31,389 --> 01:13:34,329
-Ou n„o sou mago.
+Ou n√£o sou mago.
 Segui os rastros delas.
 
 949
@@ -4338,20 +4338,20 @@ Dol Guldur?
 951
 01:13:42,856 --> 01:13:46,042
 Mas a Antiga Fortaleza
-est· abandonada.
+est√° abandonada.
 
 952
 01:13:46,857 --> 01:13:48,811
-N„o, Gandalf...
+N√£o, Gandalf...
 
 953
 01:13:50,000 --> 01:13:52,191
-N„o est·.
+N√£o est√°.
 
 954
 01:14:00,262 --> 01:14:03,268
 <i>Um poder maligno
-vaga por l·.</i>
+vaga por l√°.</i>
 
 955
 01:14:03,269 --> 01:14:06,727
@@ -4359,13 +4359,13 @@ vaga por l·.</i>
 
 956
 01:14:08,447 --> 01:14:12,931
-<i>… a sombra
+<i>√â a sombra
 de um antigo horror.</i>
 
 957
 01:14:18,962 --> 01:14:24,381
 <i>Um que pode convocar
-os espÌritos dos mortos.</i>
+os esp√≠ritos dos mortos.</i>
 
 958
 01:14:41,144 --> 01:14:43,144
@@ -4373,7 +4373,7 @@ os espÌritos dos mortos.</i>
 
 959
 01:14:43,763 --> 01:14:45,927
-<i>Saindo da escurid„o.</i>
+<i>Saindo da escurid√£o.</i>
 
 960
 01:14:46,864 --> 01:14:50,008
@@ -4381,7 +4381,7 @@ os espÌritos dos mortos.</i>
 
 961
 01:14:58,654 --> 01:15:00,259
-R·pido! R·pido!
+R√°pido! R√°pido!
 
 962
 01:15:03,230 --> 01:15:04,630
@@ -4410,7 +4410,7 @@ Tem certeza?
 
 968
 01:15:54,435 --> 01:15:59,699
-Isso n„o È...
+Isso n√£o √©...
 do mundo dos vivos.
 
 969
@@ -4421,7 +4421,7 @@ Tem lobo aqui?
 970
 01:16:08,852 --> 01:16:12,182
 Lobo?
-Isso n„o È lobo.
+Isso n√£o √© lobo.
 
 971
 01:16:17,453 --> 01:16:19,780
@@ -4434,7 +4434,7 @@ Wargs-olheiros.
 973
 01:16:27,858 --> 01:16:29,858
 O bando de orcs
-n„o deve estar longe.
+n√£o deve estar longe.
 
 974
 01:16:29,859 --> 01:16:31,259
@@ -4442,25 +4442,25 @@ Bando de orcs?
 
 975
 01:16:31,260 --> 01:16:33,718
-Para quem falou da sua miss„o,
-alÈm do seu povo?
+Para quem falou da sua miss√£o,
+al√©m do seu povo?
 
 976
 01:16:33,719 --> 01:16:35,271
-NinguÈm.
+Ningu√©m.
 
 977
 01:16:35,272 --> 01:16:37,512
 - Para quem contou?
-- NinguÈm eu juro!
+- Ningu√©m eu juro!
 
 978
 01:16:38,408 --> 01:16:40,018
-O que est· acontecendo?
+O que est√° acontecendo?
 
 979
 01:16:40,019 --> 01:16:41,653
-VocÍs est„o sendo caÁados.
+Voc√™s est√£o sendo ca√ßados.
 
 980
 01:16:42,548 --> 01:16:44,070
@@ -4468,8 +4468,8 @@ Precisamos sair daqui.
 
 981
 01:16:44,071 --> 01:16:46,761
-N„o podemos!
-N„o temos pÙneis!
+N√£o podemos!
+N√£o temos p√¥neis!
 
 982
 01:16:46,762 --> 01:16:48,518
@@ -4477,21 +4477,21 @@ Eles fugiram!
 
 983
 01:16:48,519 --> 01:16:49,919
-Eu vou atraÌ-los.
+Eu vou atra√≠-los.
 
 984
 01:16:49,920 --> 01:16:53,035
-S„o wargs de Gundabad.
-V„o alcanÁar vocÍ.
+S√£o wargs de Gundabad.
+V√£o alcan√ßar voc√™.
 
 985
 01:16:53,036 --> 01:16:55,598
-E esses s„o coelhos
+E esses s√£o coelhos
 de Rhosgobel.
 
 986
 01:16:56,248 --> 01:16:59,626
-Quero vÍ-los tentarem.
+Quero v√™-los tentarem.
 
 987
 01:17:10,749 --> 01:17:12,484
@@ -4507,7 +4507,7 @@ Fiquem juntos.
 
 990
 01:18:05,095 --> 01:18:06,778
-Ori, n„o!
+Ori, n√£o!
 
 991
 01:18:06,779 --> 01:18:08,179
@@ -4515,19 +4515,19 @@ Volte.
 
 992
 01:18:11,103 --> 01:18:12,859
-Andem! R·pido!
+Andem! R√°pido!
 
 993
 01:18:15,553 --> 01:18:17,155
-Para onde est· nos levando?
+Para onde est√° nos levando?
 
 994
 01:19:13,604 --> 01:19:16,646
-<i>As escÛrias an„s est„o ali!</i>
+<i>As esc√≥rias an√£s est√£o ali!</i>
 
 995
 01:19:18,915 --> 01:19:20,474
-<i>Atr·s deles!</i>
+<i>Atr√°s deles!</i>
 
 996
 01:19:26,258 --> 01:19:28,974
@@ -4536,12 +4536,12 @@ Corram!
 
 997
 01:19:45,640 --> 01:19:47,040
-Eles est„o ali!
+Eles est√£o ali!
 
 998
 01:19:48,819 --> 01:19:50,828
 Por aqui.
-R·pido!
+R√°pido!
 
 999
 01:20:02,300 --> 01:20:03,700
@@ -4561,7 +4561,7 @@ Estamos cercados!
 
 1003
 01:20:17,610 --> 01:20:19,180
-Onde est· Gandalf?
+Onde est√° Gandalf?
 
 1004
 01:20:19,181 --> 01:20:20,808
@@ -4569,7 +4569,7 @@ Ele nos abandonou!
 
 1005
 01:20:27,588 --> 01:20:29,292
-Fiquem em suas posiÁıes!
+Fiquem em suas posi√ß√µes!
 
 1006
 01:20:37,017 --> 01:20:38,462
@@ -4585,8 +4585,8 @@ Vamos! Mexam-se!
 
 1009
 01:20:44,967 --> 01:20:46,495
-R·pido!
-Todos vocÍs!
+R√°pido!
+Todos voc√™s!
 
 1010
 01:20:49,039 --> 01:20:50,586
@@ -4606,12 +4606,12 @@ Elfos.
 
 1014
 01:21:50,719 --> 01:21:52,631
-N„o consigo ver
+N√£o consigo ver
 para onde a passagem vai.
 
 1015
 01:21:53,301 --> 01:21:56,479
-- Seguimos ou n„o?
+- Seguimos ou n√£o?
 - Claro que seguimos!
 
 1016
@@ -4624,8 +4624,8 @@ O Vale de Imladris.
 
 1018
 01:23:03,796 --> 01:23:06,575
-Na lÌngua comum
-È conhecido por outro nome.
+Na l√≠ngua comum
+√© conhecido por outro nome.
 
 1019
 01:23:07,869 --> 01:23:09,556
@@ -4633,7 +4633,7 @@ Valfenda.
 
 1020
 01:23:12,045 --> 01:23:16,489
-Aqui est· a ⁄ltima Casa Amiga
+Aqui est√° a √öltima Casa Amiga
 a leste.
 
 1021
@@ -4643,36 +4643,36 @@ o tempo todo.
 
 1022
 01:23:21,091 --> 01:23:23,095
-Buscar ref˙gio
+Buscar ref√∫gio
 com o nosso inimigo.
 
 1023
 01:23:23,772 --> 01:23:27,163
-VocÍs n„o tÍm inimigos aqui,
+Voc√™s n√£o t√™m inimigos aqui,
 Thorin Escudo-de-Carvalho.
 
 1024
 01:23:27,164 --> 01:23:29,682
-A ˙nica m· vontade
-que encontrar· neste vale
+A √∫nica m√° vontade
+que encontrar√° neste vale
 
 1025
 01:23:29,683 --> 01:23:31,650
-ser· aquele que trouxer
+ser√° aquele que trouxer
 consigo.
 
 1026
 01:23:32,251 --> 01:23:36,064
-Acha que os elfos dar„o bÍnÁ„o
-‡ nossa miss„o?
+Acha que os elfos dar√£o b√™n√ß√£o
+√† nossa miss√£o?
 
 1027
 01:23:36,674 --> 01:23:38,273
-Tentar„o nos impedir.
+Tentar√£o nos impedir.
 
 1028
 01:23:38,274 --> 01:23:40,106
-Claro que v„o.
+Claro que v√£o.
 
 1029
 01:23:40,107 --> 01:23:43,053
@@ -4695,8 +4695,8 @@ E um pouco de simpatia.
 
 1033
 01:23:54,120 --> 01:23:57,312
-<i>… por isso que v„o deixar
-o falatÛrio comigo.</i>
+<i>√â por isso que v√£o deixar
+o falat√≥rio comigo.</i>
 
 1034
 01:24:54,354 --> 01:24:56,019
@@ -4719,23 +4719,23 @@ com o Senhor Elrond.
 1038
 01:25:06,900 --> 01:25:08,485
 Meu senhor Elrond
-n„o est· aqui.
+n√£o est√° aqui.
 
 1039
 01:25:09,114 --> 01:25:10,654
-N„o est·?
+N√£o est√°?
 
 1040
 01:25:11,450 --> 01:25:13,385
-E onde ele est·?
+E onde ele est√°?
 
 1041
 01:25:25,549 --> 01:25:27,255
-Eles est„o vindo!
+Eles est√£o vindo!
 
 1042
 01:25:27,256 --> 01:25:28,956
-Em formaÁ„o!
+Em forma√ß√£o!
 
 1043
 01:25:53,409 --> 01:25:56,357
@@ -4752,27 +4752,27 @@ Em formaÁ„o!
 
 1046
 01:26:01,521 --> 01:26:04,798
-<i>CaÁando um bando de orcs
+<i>Ca√ßando um bando de orcs
 que veio do Sul.</i>
 
 1047
 01:26:07,367 --> 01:26:10,560
 <i>Matamos alguns
-prÛximo ‡ Passagem Secreta.</i>
+pr√≥ximo √† Passagem Secreta.</i>
 
 1048
 01:26:13,691 --> 01:26:16,967
 Estranho para orcs chegarem
-t„o perto de nossas fronteiras.
+t√£o perto de nossas fronteiras.
 
 1049
 01:26:17,821 --> 01:26:21,679
-Algo ou alguÈm
-atraÌram-nos para c·.
+Algo ou algu√©m
+atra√≠ram-nos para c√°.
 
 1050
 01:26:21,680 --> 01:26:24,018
-Deve ter sido nÛs.
+Deve ter sido n√≥s.
 
 1051
 01:26:29,051 --> 01:26:32,020
@@ -4781,23 +4781,23 @@ filho de Thrain.
 
 1052
 01:26:32,774 --> 01:26:35,074
-Creio que n„o
+Creio que n√£o
 nos conhecemos.
 
 1053
 01:26:35,677 --> 01:26:38,423
-VocÍ tem o porte
-do seu avÙ.
+Voc√™ tem o porte
+do seu av√¥.
 
 1054
 01:26:38,424 --> 01:26:41,484
-Conheci ThrÛr quando
+Conheci Thr√≥r quando
 ele governou sob a montanha.
 
 1055
 01:26:41,485 --> 01:26:44,730
 Conheceu.
-Mas ele n„o falava de vocÍ.
+Mas ele n√£o falava de voc√™.
 
 1056
 01:26:56,123 --> 01:26:58,293
@@ -4809,8 +4809,8 @@ Ele nos ofendeu?
 
 1058
 01:27:00,634 --> 01:27:04,994
-N„o, mestre Gloin.
-Ele est· oferecendo comida.
+N√£o, mestre Gloin.
+Ele est√° oferecendo comida.
 
 1059
 01:27:12,774 --> 01:27:14,778
@@ -4819,19 +4819,19 @@ Nesse caso, continue.
 1060
 01:27:17,280 --> 01:27:20,313
 Prove.
-SÛ um pouquinho.
+S√≥ um pouquinho.
 
 1061
 01:27:20,314 --> 01:27:22,414
-N„o gosto de comida verde.
+N√£o gosto de comida verde.
 
 1062
 01:27:23,079 --> 01:27:24,700
-Onde est· a carne?
+Onde est√° a carne?
 
 1063
 01:27:25,694 --> 01:27:27,456
-N„o tem aperitivo?
+N√£o tem aperitivo?
 
 1064
 01:27:28,542 --> 01:27:30,206
@@ -4839,16 +4839,16 @@ Foi gentil ter nos convidado.
 
 1065
 01:27:30,950 --> 01:27:32,949
-N„o estou vestido
+N√£o estou vestido
 para o jantar.
 
 1066
 01:27:32,950 --> 01:27:34,450
-VocÍ nunca est·.
+Voc√™ nunca est√°.
 
 1067
 01:27:54,641 --> 01:27:56,484
-Esta È Orcrist.
+Esta √© Orcrist.
 
 1068
 01:27:57,180 --> 01:27:59,311
@@ -4856,7 +4856,7 @@ A Fende-Orc.
 
 1069
 01:27:59,312 --> 01:28:00,972
-Uma famosa l‚mina
+Uma famosa l√¢mina
 
 1070
 01:28:00,973 --> 01:28:04,356
@@ -4873,7 +4873,7 @@ Que lhe sirva bem.
 
 1073
 01:28:08,700 --> 01:28:11,497
-E esta È Glamdring.
+E esta √© Glamdring.
 
 1074
 01:28:12,673 --> 01:28:15,857
@@ -4887,26 +4887,26 @@ para a guerra contra os orcs...</i>
 
 1076
 01:28:19,722 --> 01:28:21,164
-Eu n„o me incomodaria.
+Eu n√£o me incomodaria.
 
 1077
 01:28:21,165 --> 01:28:24,538
-O nome de espadas vÍm
+O nome de espadas v√™m
 de seus feitos em guerras.
 
 1078
 01:28:24,539 --> 01:28:26,953
-Est· dizendo que minha espada
-n„o viu a guerra?
+Est√° dizendo que minha espada
+n√£o viu a guerra?
 
 1079
 01:28:27,556 --> 01:28:29,665
-N„o tenho certeza
-se È uma espada.
+N√£o tenho certeza
+se √© uma espada.
 
 1080
 01:28:30,679 --> 01:28:32,747
-Est· mais
+Est√° mais
 para um abridor de carta.
 
 1081
@@ -4931,35 +4931,35 @@ na Grande Estrada do Leste?
 1085
 01:28:48,526 --> 01:28:50,929
 <i>Nossos assuntos
-n„o s„o da conta dos elfos.</i>
+n√£o s√£o da conta dos elfos.</i>
 
 1086
 01:28:50,930 --> 01:28:53,829
-<i>N„o acredito.
+<i>N√£o acredito.
 Thorin, mostre o mapa a ele.</i>
 
 1087
 01:28:53,830 --> 01:28:55,829
-… o legado do meu povo.
+√â o legado do meu povo.
 
 1088
 01:28:55,830 --> 01:28:59,884
-Devo protegÍ-lo,
+Devo proteg√™-lo,
 assim como seus segredos.
 
 1089
 01:28:59,885 --> 01:29:02,895
 Poupe-me da teimosia
-dos anıes.
+dos an√µes.
 
 1090
 01:29:02,896 --> 01:29:05,708
 Seu orgulho
-ser· a sua ruÌna.
+ser√° a sua ru√≠na.
 
 1091
 01:29:05,709 --> 01:29:10,300
-Est· na frente de um dos ˙nicos
+Est√° na frente de um dos √∫nicos
 que podem ler o mapa.
 
 1092
@@ -4968,7 +4968,7 @@ Mostre ao Senhor Elrond.
 
 1093
 01:29:19,453 --> 01:29:21,320
-N„o, Thorin...
+N√£o, Thorin...
 
 1094
 01:29:30,679 --> 01:29:32,502
@@ -4976,12 +4976,12 @@ Erebor?
 
 1095
 01:29:33,614 --> 01:29:37,339
-Qual È o seu interesse
+Qual √© o seu interesse
 neste mapa?
 
 1096
 01:29:38,374 --> 01:29:40,690
-… apenas acadÍmico.
+√â apenas acad√™mico.
 
 1097
 01:29:40,691 --> 01:29:42,641
@@ -4990,13 +4990,13 @@ esses tipos de artefatos
 
 1098
 01:29:42,642 --> 01:29:44,974
-‡s vezes
-contÍm textos ocultos.
+√†s vezes
+cont√™m textos ocultos.
 
 1099
 01:29:51,007 --> 01:29:54,069
 Ainda sabe ler
-a antiga lÌngua dos anıes, n„o?
+a antiga l√≠ngua dos an√µes, n√£o?
 
 1100
 01:29:59,206 --> 01:30:01,289
@@ -5008,11 +5008,11 @@ Runas lunares.
 
 1102
 01:30:04,751 --> 01:30:06,175
-Claro que s„o.
+Claro que s√£o.
 
 1103
 01:30:06,863 --> 01:30:08,480
-S„o difÌceis de ver.
+S√£o dif√≠ceis de ver.
 
 1104
 01:30:09,215 --> 01:30:10,756
@@ -5021,41 +5021,41 @@ se for verdade,
 
 1105
 01:30:10,757 --> 01:30:13,425
-as runas sÛ podem ser lidas
+as runas s√≥ podem ser lidas
 sobre a luz da lua
 
 1106
 01:30:13,426 --> 01:30:17,495
-de mesma fase e estaÁ„o
+de mesma fase e esta√ß√£o
 do dia da escrita.
 
 1107
 01:30:18,683 --> 01:30:20,106
-VocÍ pode lÍ-las?
+Voc√™ pode l√™-las?
 
 1108
 01:30:24,998 --> 01:30:28,145
 Estas runas foram escritas
-em um solstÌcio de ver„o
+em um solst√≠cio de ver√£o
 
 1109
 01:30:28,146 --> 01:30:33,242
 sob a luz de uma lua crescente
-h· cerca de 200 anos.
+h√° cerca de 200 anos.
 
 1110
 01:30:33,243 --> 01:30:36,028
 Parece que foram fadados
-a vir ‡ Valfenda.
+a vir √† Valfenda.
 
 1111
 01:30:36,772 --> 01:30:39,103
-O destino est· com vocÍs,
+O destino est√° com voc√™s,
 Thorin Escudo-de-Carvalho.
 
 1112
 01:30:39,104 --> 01:30:42,024
-A mesma lua brilha sobre nÛs
+A mesma lua brilha sobre n√≥s
 esta noite.
 
 1113
@@ -5065,12 +5065,12 @@ quando o tordo bater,
 
 1114
 01:31:06,457 --> 01:31:10,844
-e o sol poente com a ˙ltima luz
+e o sol poente com a √∫ltima luz
 do Dia de Durin
 
 1115
 01:31:11,445 --> 01:31:14,675
-brilhar·
+brilhar√°
 sobre a fechadura."
 
 1116
@@ -5079,31 +5079,31 @@ Dia de Durin?
 
 1117
 01:31:16,077 --> 01:31:18,104
-… o inÌcio do Ano Novo
-dos anıes.
+√â o in√≠cio do Ano Novo
+dos an√µes.
 
 1118
 01:31:18,105 --> 01:31:20,753
-Quando a ˙ltima lua do outono
+Quando a √∫ltima lua do outono
 e o primeiro sol do inverno
 
 1119
 01:31:20,754 --> 01:31:22,764
-aparecem juntos no cÈu.
+aparecem juntos no c√©u.
 
 1120
 01:31:22,765 --> 01:31:24,168
-Isso È uma m· notÌcia.
+Isso √© uma m√° not√≠cia.
 
 1121
 01:31:24,825 --> 01:31:27,580
-O ver„o est· acabando.
-O Dia de Durin chegar· em breve.
+O ver√£o est√° acabando.
+O Dia de Durin chegar√° em breve.
 
 1122
 01:31:27,581 --> 01:31:29,830
 - Ainda temos tempo.
-- Tempo para quÍ?
+- Tempo para qu√™?
 
 1123
 01:31:29,831 --> 01:31:31,730
@@ -5116,39 +5116,39 @@ e na hora certa.
 
 1125
 01:31:35,490 --> 01:31:39,698
-AÌ, e somente aÌ,
-a porta poder· ser aberta.
+A√≠, e somente a√≠,
+a porta poder√° ser aberta.
 
 1126
 01:31:39,699 --> 01:31:43,324
-Ent„o essa È sua meta?
+Ent√£o essa √© sua meta?
 Entrar na montanha.
 
 1127
 01:31:43,959 --> 01:31:45,424
-E daÌ?
+E da√≠?
 
 1128
 01:31:45,425 --> 01:31:48,566
-Alguns n„o achariam isso
+Alguns n√£o achariam isso
 prudente.
 
 1129
 01:31:50,040 --> 01:31:51,491
-O que vocÍ quer dizer?
+O que voc√™ quer dizer?
 
 1130
 01:31:52,665 --> 01:31:56,335
-VocÍ n„o È o ˙nico guardi„o
-a vigiar a Terra-MÈdia.
+Voc√™ n√£o √© o √∫nico guardi√£o
+a vigiar a Terra-M√©dia.
 
 1131
 01:32:21,741 --> 01:32:24,746
-<i>Os anıes, Mestre...</i>
+<i>Os an√µes, Mestre...</i>
 
 1132
 01:32:26,700 --> 01:32:28,761
-<i>NÛs os perdemos.</i>
+<i>N√≥s os perdemos.</i>
 
 1133
 01:32:32,434 --> 01:32:36,499
@@ -5157,29 +5157,29 @@ por malditos elfos.</i>
 
 1134
 01:32:36,500 --> 01:32:40,077
-<i>N„o quero desculpas.</i>
+<i>N√£o quero desculpas.</i>
 
 1135
 01:32:45,528 --> 01:32:50,368
-<i>Eu quero a cabeÁa
-do Rei An„o!</i>
+<i>Eu quero a cabe√ßa
+do Rei An√£o!</i>
 
 1136
 01:32:50,369 --> 01:32:52,168
-<i>Est·vamos em menor n˙mero...</i>
+<i>Est√°vamos em menor n√∫mero...</i>
 
 1137
 01:32:52,169 --> 01:32:54,768
-<i>N„o podÌamos fazer nada.</i>
+<i>N√£o pod√≠amos fazer nada.</i>
 
 1138
 01:32:54,769 --> 01:32:58,738
-<i>Tive sorte de ter saÌdo
+<i>Tive sorte de ter sa√≠do
 com vida.</i>
 
 1139
 01:32:58,739 --> 01:33:01,911
-<i>Como seria bom para vocÍ...</i>
+<i>Como seria bom para voc√™...</i>
 
 1140
 01:33:01,912 --> 01:33:04,023
@@ -5187,7 +5187,7 @@ com vida.</i>
 
 1141
 01:33:23,841 --> 01:33:29,571
-<i>As escÛrias an„s aparecer„o
+<i>As esc√≥rias an√£s aparecer√£o
 em breve.</i>
 
 1142
@@ -5196,8 +5196,8 @@ em breve.</i>
 
 1143
 01:33:33,378 --> 01:33:36,732
-<i>H· uma recompensa
-pelas cabeÁas deles.</i>
+<i>H√° uma recompensa
+pelas cabe√ßas deles.</i>
 
 1144
 01:33:59,226 --> 01:34:00,722
@@ -5206,27 +5206,27 @@ Bombur.
 1145
 01:34:07,022 --> 01:34:09,447
 Com ou sem nossa ajuda,
-esses anıes
+esses an√µes
 
 1146
 01:34:09,448 --> 01:34:11,500
-v„o se pÙr em marcha
+v√£o se p√¥r em marcha
 para a Montanha.
 
 1147
 01:34:11,501 --> 01:34:14,513
-Est„o determinados
+Est√£o determinados
 a retomar o lar deles.
 
 1148
 01:34:14,514 --> 01:34:16,632
-N„o acredito
+N√£o acredito
 que Thorin Escudo-de-Carvalho
 
 1149
 01:34:16,633 --> 01:34:19,778
 sinta que deva reportar
-a alguÈm.
+a algu√©m.
 
 1150
 01:34:19,779 --> 01:34:21,794
@@ -5234,8 +5234,8 @@ Muito menos eu.
 
 1151
 01:34:21,795 --> 01:34:24,892
-N„o È a mim
-que vocÍ deve reportar.
+N√£o √© a mim
+que voc√™ deve reportar.
 
 1152
 01:34:36,961 --> 01:34:38,858
@@ -5247,7 +5247,7 @@ Mithrandir.
 
 1154
 01:34:42,928 --> 01:34:46,143
-<i>H· quanto tempo.</i>
+<i>H√° quanto tempo.</i>
 
 1155
 01:34:47,264 --> 01:34:49,819
@@ -5256,17 +5256,17 @@ tenha me mudado...</i>
 
 1156
 01:34:51,740 --> 01:34:55,580
-<i>mas n„o
-a Senhora de LÛrien.</i>
+<i>mas n√£o
+a Senhora de L√≥rien.</i>
 
 1157
 01:35:00,227 --> 01:35:03,962
-Eu n„o sabia que o Senhor Elrond
-mandou chamarem vocÍ.
+Eu n√£o sabia que o Senhor Elrond
+mandou chamarem voc√™.
 
 1158
 01:35:03,963 --> 01:35:05,363
-<i>Ele n„o mandou.</i>
+<i>Ele n√£o mandou.</i>
 
 1159
 01:35:06,043 --> 01:35:07,448
@@ -5278,7 +5278,7 @@ Saruman.
 
 1161
 01:35:17,971 --> 01:35:21,925
-VocÍ tem estado ocupado,
+Voc√™ tem estado ocupado,
 meu amigo.
 
 1162
@@ -5287,8 +5287,8 @@ Diga-me, Gandalf...
 
 1163
 01:35:25,089 --> 01:35:28,960
-VocÍ achava que esses planos
-e esquemas de vocÍs
+Voc√™ achava que esses planos
+e esquemas de voc√™s
 
 1164
 01:35:28,961 --> 01:35:31,036
@@ -5300,23 +5300,23 @@ Despercebidos?
 
 1166
 01:35:33,710 --> 01:35:37,772
-N„o. Eu sÛ fiz aquilo
+N√£o. Eu s√≥ fiz aquilo
 que achava certo.
 
 1167
 01:35:37,773 --> 01:35:41,730
-O drag„o est· h· muito tempo
+O drag√£o est√° h√° muito tempo
 na sua mente.
 
 1168
 01:35:41,731 --> 01:35:43,830
-… verdade,
+√â verdade,
 minha senhora.
 
 1169
 01:35:43,831 --> 01:35:46,535
-Smaug n„o deve lealdade
-a ninguÈm.
+Smaug n√£o deve lealdade
+a ningu√©m.
 
 1170
 01:35:46,536 --> 01:35:49,407
@@ -5325,8 +5325,8 @@ para o lado inimigo.
 
 1171
 01:35:49,408 --> 01:35:52,642
-Um drag„o pode ser usado
-para um mal terrÌvel.
+Um drag√£o pode ser usado
+para um mal terr√≠vel.
 
 1172
 01:35:52,643 --> 01:35:54,160
@@ -5335,7 +5335,7 @@ Que inimigo?
 1173
 01:35:54,784 --> 01:35:57,849
 Gandalf, os inimigos
-est„o derrotados.
+est√£o derrotados.
 
 1174
 01:35:57,850 --> 01:35:59,937
@@ -5343,7 +5343,7 @@ Sauron foi derrotado.
 
 1175
 01:35:59,938 --> 01:36:02,195
-Ele nunca poder· recuperar
+Ele nunca poder√° recuperar
 todo seu poder.
 
 1176
@@ -5361,11 +5361,11 @@ Estamos mesmo em paz?
 
 1179
 01:36:15,520 --> 01:36:17,962
-Trolls saÌram das montanhas.
+Trolls sa√≠ram das montanhas.
 
 1180
 01:36:17,963 --> 01:36:20,706
-Est„o invadindo vilas,
+Est√£o invadindo vilas,
 destruindo fazendas.
 
 1181
@@ -5379,12 +5379,12 @@ Pouco para uma guerra.
 
 1183
 01:36:25,152 --> 01:36:27,614
-VocÍ sempre se intromete.
+Voc√™ sempre se intromete.
 
 1184
 01:36:27,615 --> 01:36:29,600
 Procura problemas
-onde n„o h·.
+onde n√£o h√°.
 
 1185
 01:36:29,601 --> 01:36:31,315
@@ -5393,7 +5393,7 @@ Deixem-no falar.
 1186
 01:36:32,965 --> 01:36:38,063
 Existe outra coisa agindo,
-alÈm do mal de Smaug.
+al√©m do mal de Smaug.
 
 1187
 01:36:38,064 --> 01:36:39,764
@@ -5402,7 +5402,7 @@ Algo bem mais poderoso.
 1188
 01:36:41,549 --> 01:36:45,084
 Podemos permanecer cegos a ele,
-mas ele n„o nos ignorar·.
+mas ele n√£o nos ignorar√°.
 
 1189
 01:36:45,085 --> 01:36:46,880
@@ -5410,12 +5410,12 @@ Isso eu garanto.
 
 1190
 01:36:46,881 --> 01:36:49,556
-Uma praga avanÁa
+Uma praga avan√ßa
 sobre a Floresta Verde.
 
 1191
 01:36:49,557 --> 01:36:52,813
-Os lenhadores que l· vivem
+Os lenhadores que l√° vivem
 chamam-na Floresta das Trevas.
 
 1192
@@ -5424,11 +5424,11 @@ E dizem...
 
 1193
 01:36:56,297 --> 01:36:57,725
-E ent„o?
+E ent√£o?
 
 1194
 01:36:57,726 --> 01:37:02,106
-N„o pare agora.
+N√£o pare agora.
 Diga-nos o que eles dizem.
 
 1195
@@ -5443,17 +5443,17 @@ que invoca os mortos.
 
 1197
 01:37:09,000 --> 01:37:10,699
-Isso È um absurdo.
+Isso √© um absurdo.
 
 1198
 01:37:10,700 --> 01:37:13,399
-Tal poder n„o existe
+Tal poder n√£o existe
 nesse mundo.
 
 1199
 01:37:13,400 --> 01:37:18,048
 Esse Necromante
-n„o passa de um homem mortal.
+n√£o passa de um homem mortal.
 
 1200
 01:37:18,049 --> 01:37:20,769
@@ -5471,21 +5471,21 @@ Radagast?
 
 1203
 01:37:26,321 --> 01:37:29,058
-N„o fale comigo
+N√£o fale comigo
 sobre Radagast, o Castanho.
 
 1204
 01:37:29,668 --> 01:37:31,367
-Ele È um sujeito tolo.
+Ele √© um sujeito tolo.
 
 1205
 01:37:32,621 --> 01:37:36,222
-Ele È estranho, concordo.
+Ele √© estranho, concordo.
 Vive uma vida reclusa.
 
 1206
 01:37:36,223 --> 01:37:37,657
-N„o È isso,
+N√£o √© isso,
 
 1207
 01:37:37,658 --> 01:37:41,112
@@ -5503,16 +5503,16 @@ Eu o alertei.
 
 1210
 01:37:47,252 --> 01:37:50,415
-… imprÛprio para um dos Istari
+√â impr√≥prio para um dos Istari
 vagar pelas florestas...
 
 1211
 01:37:50,416 --> 01:37:52,618
-<i>VocÍ porta algo.</i>
+<i>Voc√™ porta algo.</i>
 
 1212
 01:37:54,218 --> 01:37:56,619
-<i>Foi dado a vocÍ
+<i>Foi dado a voc√™
 por Radagast.</i>
 
 1213
@@ -5529,15 +5529,15 @@ por Radagast.</i>
 
 1216
 01:38:15,980 --> 01:38:18,029
-O que È isso?
+O que √© isso?
 
 1217
 01:38:19,107 --> 01:38:21,717
-Uma relÌquia de Mordor.
+Uma rel√≠quia de Mordor.
 
 1218
 01:38:32,298 --> 01:38:34,474
-Uma l‚mina de Morgul.
+Uma l√¢mina de Morgul.
 
 1219
 01:38:34,475 --> 01:38:37,083
@@ -5569,21 +5569,21 @@ enterraram-no.
 
 1225
 01:38:55,863 --> 01:39:01,177
-Em um t˙mulo t„o escuro,
+Em um t√∫mulo t√£o escuro,
 que nunca se veria a luz.
 
 1226
 01:39:01,178 --> 01:39:03,077
-Isso n„o È possÌvel.
+Isso n√£o √© poss√≠vel.
 
 1227
 01:39:03,901 --> 01:39:06,976
-Um feitiÁo poderoso
-foi lanÁado sobre os t˙mulos.
+Um feiti√ßo poderoso
+foi lan√ßado sobre os t√∫mulos.
 
 1228
 01:39:06,977 --> 01:39:09,031
-N„o podem ser abertos.
+N√£o podem ser abertos.
 
 1229
 01:39:09,032 --> 01:39:10,676
@@ -5592,12 +5592,12 @@ Que provas temos
 1230
 01:39:10,677 --> 01:39:13,772
 de que a arma veio
-do t˙mulo de Angmar?
+do t√∫mulo de Angmar?
 
 1231
 01:39:14,727 --> 01:39:17,619
-- Eu n„o tenho nenhuma.
-- Porque n„o h· provas.
+- Eu n√£o tenho nenhuma.
+- Porque n√£o h√° provas.
 
 1232
 01:39:18,497 --> 01:39:21,065
@@ -5606,7 +5606,7 @@ o que sabemos.
 
 1233
 01:39:21,066 --> 01:39:25,570
-Um ˙nico bando de orcs
+Um √∫nico bando de orcs
 resolveu atravessar Bruinen.
 
 1234
@@ -5621,54 +5621,54 @@ que se intitula "o Necromante"
 
 1236
 01:39:35,233 --> 01:39:38,927
-vive nas ruÌnas
+vive nas ru√≠nas
 de uma fortaleza.
 
 1237
 01:39:40,198 --> 01:39:43,586
 A verdade
-È que n„o sabemos muito.
+√© que n√£o sabemos muito.
 
 1238
 01:39:44,251 --> 01:39:49,875
-Mas a miss„o desses anıes
+Mas a miss√£o desses an√µes
 me preocupa muito.
 
 1239
 01:39:49,876 --> 01:39:51,592
-N„o estou convencido,
+N√£o estou convencido,
 Gandalf.
 
 1240
 01:39:51,593 --> 01:39:55,605
-E n„o acho que devo permitir
-tal miss„o.
+E n√£o acho que devo permitir
+tal miss√£o.
 
 1241
 01:39:55,606 --> 01:39:59,187
 Se viessem a mim,
-eu lhes pouparia da decepÁ„o.
+eu lhes pouparia da decep√ß√£o.
 
 1242
 01:39:59,862 --> 01:40:03,056
-N„o quero entender
+N√£o quero entender
 seus motivos...
 
 1243
 01:40:03,057 --> 01:40:04,813
-<i>Eles est„o partindo.</i>
+<i>Eles est√£o partindo.</i>
 
 1244
 01:40:07,222 --> 01:40:08,845
-<i>Est„o.</i>
+<i>Est√£o.</i>
 
 1245
 01:40:10,893 --> 01:40:13,139
-<i>VocÍ sabia!</i>
+<i>Voc√™ sabia!</i>
 
 1246
 01:40:17,987 --> 01:40:20,341
-Temo que n„o h· nada mais
+Temo que n√£o h√° nada mais
 a fazer.
 
 1247
@@ -5677,7 +5677,7 @@ Meu senhor Elrond...
 
 1248
 01:40:24,350 --> 01:40:26,214
-Os anıes...
+Os an√µes...
 
 1249
 01:40:26,215 --> 01:40:27,721
@@ -5694,7 +5694,7 @@ no limiar do Ermo.
 
 1252
 01:40:37,737 --> 01:40:40,575
-Balin, vocÍ sabe o caminho.
+Balin, voc√™ sabe o caminho.
 Guie-nos.
 
 1253
@@ -5704,26 +5704,26 @@ Sugiro que siga andando.
 
 1254
 01:41:05,660 --> 01:41:08,423
-- VocÍ vai segui-los.
+- Voc√™ vai segui-los.
 - Vou.
 
 1255
 01:41:08,424 --> 01:41:11,553
-VocÍ est· certo em ajudar
+Voc√™ est√° certo em ajudar
 Thorin Escudo-de-Carvalho.
 
 1256
 01:41:11,554 --> 01:41:14,204
-Mas temo que essa miss„o
+Mas temo que essa miss√£o
 
 1257
 01:41:14,205 --> 01:41:18,115
-desperte forÁas
-que ainda n„o compreendemos.
+desperte for√ßas
+que ainda n√£o compreendemos.
 
 1258
 01:41:18,881 --> 01:41:22,823
-O enigma da l‚mina de Morgul
+O enigma da l√¢mina de Morgul
 deve ser solucionado.
 
 1259
@@ -5732,8 +5732,8 @@ Algo se move nas sombras
 
 1260
 01:41:24,872 --> 01:41:28,186
-invisÌvel aos olhos
-e que n„o quer se exibir.
+invis√≠vel aos olhos
+e que n√£o quer se exibir.
 
 1261
 01:41:28,797 --> 01:41:30,294
@@ -5746,7 +5746,7 @@ e se fortalece.
 
 1263
 01:41:33,493 --> 01:41:35,392
-VocÍ deve ser cuidadoso.
+Voc√™ deve ser cuidadoso.
 
 1264
 01:41:40,253 --> 01:41:41,715
@@ -5758,12 +5758,12 @@ Por que o pequenino?
 
 1266
 01:41:47,744 --> 01:41:49,534
-Eu n„o sei.
+Eu n√£o sei.
 
 1267
 01:41:52,128 --> 01:41:56,357
-Saruman crÍ
-que sÛ grandes forÁas
+Saruman cr√™
+que s√≥ grandes for√ßas
 
 1268
 01:41:56,358 --> 01:41:58,747
@@ -5771,21 +5771,21 @@ conseguem conter o mal.
 
 1269
 01:41:59,564 --> 01:42:01,948
-Mas n„o È o que acho.
+Mas n√£o √© o que acho.
 
 1270
 01:42:03,151 --> 01:42:07,218
-Eu acho que s„o
+Eu acho que s√£o
 os pequenos detalhes...
 
 1271
 01:42:07,219 --> 01:42:12,239
-as aÁıes di·rias das pessoas,
-que mantÍm o mal afastado.
+as a√ß√µes di√°rias das pessoas,
+que mant√™m o mal afastado.
 
 1272
 01:42:13,357 --> 01:42:16,252
-Simples aÁıes
+Simples a√ß√µes
 de bondade e amor.
 
 1273
@@ -5798,16 +5798,16 @@ Talvez porque tenho medo.
 
 1275
 01:42:28,388 --> 01:42:30,767
-E ele me d· coragem.
+E ele me d√° coragem.
 
 1276
 01:42:35,641 --> 01:42:38,650
-N„o tenha medo,
+N√£o tenha medo,
 Mithrandir.
 
 1277
 01:42:40,874 --> 01:42:42,758
-VocÍ n„o est· sÛ.
+Voc√™ n√£o est√° s√≥.
 
 1278
 01:42:46,227 --> 01:42:47,990
@@ -5815,11 +5815,11 @@ VocÍ n„o est· sÛ.
 
 1279
 01:42:49,103 --> 01:42:50,965
-<i>eu irei atÈ vocÍ.</i>
+<i>eu irei at√© voc√™.</i>
 
 1280
 01:44:22,476 --> 01:44:25,251
-AtenÁ„o!
+Aten√ß√£o!
 Segurem firme!
 
 1281
@@ -5832,7 +5832,7 @@ Cuidado!
 
 1283
 01:44:46,593 --> 01:44:48,085
-O que È isso?
+O que √© isso?
 
 1284
 01:44:48,848 --> 01:44:50,333
@@ -5840,11 +5840,11 @@ Protejam-se!
 
 1285
 01:44:54,077 --> 01:44:55,846
-Isso n„o È uma tempestade.
+Isso n√£o √© uma tempestade.
 
 1286
 01:44:56,539 --> 01:44:58,297
-… uma batalha!
+√â uma batalha!
 
 1287
 01:44:59,857 --> 01:45:01,320
@@ -5856,7 +5856,7 @@ Minha nossa!
 
 1289
 01:45:07,974 --> 01:45:09,823
-As lendas s„o verdadeiras!
+As lendas s√£o verdadeiras!
 
 1290
 01:45:09,824 --> 01:45:13,287
@@ -5866,7 +5866,7 @@ Gigantes de pedra!
 1291
 01:45:20,489 --> 01:45:22,710
 Protejam-se,
-ou vocÍs v„o cair!
+ou voc√™s v√£o cair!
 
 1292
 01:45:23,727 --> 01:45:25,959
@@ -5874,8 +5874,8 @@ Segurem-se!
 
 1293
 01:45:33,835 --> 01:45:36,053
-- O que est· acontecendo?
-- Kili, segure minha m„o!
+- O que est√° acontecendo?
+- Kili, segure minha m√£o!
 
 1294
 01:46:00,600 --> 01:46:02,000
@@ -5895,21 +5895,21 @@ Segurem-se!
 
 1298
 01:46:53,310 --> 01:46:55,229
-N„o!
+N√£o!
 
 1299
 01:47:06,011 --> 01:47:07,901
-N„o, Fili!
+N√£o, Fili!
 
 1300
 01:47:14,813 --> 01:47:17,560
-Est· tudo bem!
-NÛs estamos vivos!
+Est√° tudo bem!
+N√≥s estamos vivos!
 
 1301
 01:47:18,435 --> 01:47:21,034
-Onde est· Bilbo?
-Onde est· o hobbit?
+Onde est√° Bilbo?
+Onde est√° o hobbit?
 
 1302
 01:47:22,384 --> 01:47:23,789
@@ -5921,11 +5921,11 @@ Segurem-no!
 
 1304
 01:47:30,002 --> 01:47:31,972
-Pegue a minha m„o, Bilbo!
+Pegue a minha m√£o, Bilbo!
 
 1305
 01:47:36,556 --> 01:47:37,956
-Peguei vocÍ!
+Peguei voc√™!
 
 1306
 01:47:38,614 --> 01:47:40,032
@@ -5937,21 +5937,21 @@ Segurem-no!
 
 1308
 01:47:57,098 --> 01:47:58,838
-Pensei que tÌnhamos perdido
-nosso ladr„o.
+Pensei que t√≠nhamos perdido
+nosso ladr√£o.
 
 1309
 01:47:59,787 --> 01:48:03,043
-Ele est· perdido
+Ele est√° perdido
 desde que saiu de casa.
 
 1310
 01:48:03,044 --> 01:48:04,459
-N„o deveria ter vindo.
+N√£o deveria ter vindo.
 
 1311
 01:48:05,276 --> 01:48:07,430
-N„o tem lugar entre nÛs.
+N√£o tem lugar entre n√≥s.
 
 1312
 01:48:09,200 --> 01:48:10,728
@@ -5965,11 +5965,11 @@ Dwalin!
 1314
 01:48:19,685 --> 01:48:22,153
 Cavernas nas montanhas
-sempre est„o ocupadas.
+sempre est√£o ocupadas.
 
 1315
 01:48:26,048 --> 01:48:28,157
-N„o h· nada aqui.
+N√£o h√° nada aqui.
 
 1316
 01:48:29,788 --> 01:48:32,375
@@ -5978,8 +5978,8 @@ Vamos acender essa fogueira.
 
 1317
 01:48:32,376 --> 01:48:34,483
-N„o, nada de fogueiras.
-N„o neste lugar.
+N√£o, nada de fogueiras.
+N√£o neste lugar.
 
 1318
 01:48:35,139 --> 01:48:38,934
@@ -5988,8 +5988,8 @@ Partiremos ao raiar do sol.
 
 1319
 01:48:39,810 --> 01:48:43,033
-Pensei que esperarÌamos
-Gandalf nos alcanÁar.
+Pensei que esperar√≠amos
+Gandalf nos alcan√ßar.
 
 1320
 01:48:43,698 --> 01:48:46,713
@@ -5999,11 +5999,11 @@ Gandalf nos alcanÁar.
 1321
 01:48:46,714 --> 01:48:49,864
 Bofur...
-FaÁa a primeira vigÌlia.
+Fa√ßa a primeira vig√≠lia.
 
 1322
 01:48:57,074 --> 01:48:59,757
-<i>O rastro est· fresco!</i>
+<i>O rastro est√° fresco!</i>
 
 1323
 01:49:00,479 --> 01:49:05,322
@@ -6020,12 +6020,12 @@ Voltar para Valfenda.
 
 1326
 01:50:12,983 --> 01:50:15,952
-N„o pode voltar!
-VocÍ faz parte da Companhia!
+N√£o pode voltar!
+Voc√™ faz parte da Companhia!
 
 1327
 01:50:15,953 --> 01:50:17,526
-VocÍ È um de nÛs.
+Voc√™ √© um de n√≥s.
 
 1328
 01:50:17,527 --> 01:50:19,693
@@ -6033,50 +6033,50 @@ Sou mesmo?
 
 1329
 01:50:20,950 --> 01:50:23,864
-Thorin disse que eu n„o devia
-ter vindo, e ele tem raz„o.
+Thorin disse que eu n√£o devia
+ter vindo, e ele tem raz√£o.
 
 1330
 01:50:24,544 --> 01:50:27,921
-N„o sou um T˚k, sou um Bolseiro.
-N„o sei o que deu em mim.
+N√£o sou um T√ªk, sou um Bolseiro.
+N√£o sei o que deu em mim.
 
 1331
 01:50:29,559 --> 01:50:31,127
-N„o devia ter passado da porta.
+N√£o devia ter passado da porta.
 
 1332
 01:50:31,128 --> 01:50:33,939
-VocÍ sente falta do seu lar.
+Voc√™ sente falta do seu lar.
 Eu entendo.
 
 1333
 01:50:33,940 --> 01:50:36,674
-N„o, vocÍ n„o entende!
-Nenhum de vocÍs entende!
+N√£o, voc√™ n√£o entende!
+Nenhum de voc√™s entende!
 
 1334
 01:50:36,675 --> 01:50:40,006
-VocÍs s„o anıes!
+Voc√™s s√£o an√µes!
 Sempre tiveram essa vida!
 
 1335
 01:50:40,007 --> 01:50:43,782
-Sempre na estrada como nÙmades,
+Sempre na estrada como n√¥mades,
 sem pertencer a lugar algum!
 
 1336
 01:50:47,461 --> 01:50:50,148
 Desculpe.
-Eu n„o quis...
+Eu n√£o quis...
 
 1337
 01:50:54,510 --> 01:50:56,335
-N„o, vocÍ tem raz„o.
+N√£o, voc√™ tem raz√£o.
 
 1338
 01:50:59,545 --> 01:51:01,584
-NÛs n„o pertencemos
+N√≥s n√£o pertencemos
 a lugar algum.
 
 1339
@@ -6090,7 +6090,7 @@ De verdade.
 
 1341
 01:51:21,193 --> 01:51:22,945
-O que È isso?
+O que √© isso?
 
 1342
 01:51:44,893 --> 01:51:47,400
@@ -6102,39 +6102,39 @@ Cuidado!
 
 1344
 01:52:23,499 --> 01:52:25,103
-Para tr·s!
+Para tr√°s!
 
 1345
 01:52:44,876 --> 01:52:46,774
-Tirem as m„os de mim!
+Tirem as m√£os de mim!
 
 1346
 01:54:41,415 --> 01:54:46,860
-Quem seria t„o tolo
+Quem seria t√£o tolo
 de entrar armado em meu reino?
 
 1347
 01:54:46,861 --> 01:54:50,636
-Espiıes? Ladrıes?
+Espi√µes? Ladr√µes?
 Assassinos?
 
 1348
 01:54:50,637 --> 01:54:52,540
-Anıes,
-Vossa MalevolÍncia.
+An√µes,
+Vossa Malevol√™ncia.
 
 1349
 01:54:52,541 --> 01:54:54,049
-Anıes?
+An√µes?
 
 1350
 01:54:54,650 --> 01:54:56,565
-NÛs os encontramos
-no ·trio frontal.
+N√≥s os encontramos
+no √°trio frontal.
 
 1351
 01:54:56,566 --> 01:55:00,128
-N„o fiquem parados!
+N√£o fiquem parados!
 Revistem!
 
 1352
@@ -6144,7 +6144,7 @@ todas as fendas.
 
 1353
 01:55:09,052 --> 01:55:11,563
-O que vocÍs fazem
+O que voc√™s fazem
 por aqui?
 
 1354
@@ -6153,8 +6153,8 @@ Falem!
 
 1355
 01:55:16,722 --> 01:55:22,256
-Muito bem. Se n„o v„o falar,
-vamos fazÍ-los grasnar!
+Muito bem. Se n√£o v√£o falar,
+vamos faz√™-los grasnar!
 
 1356
 01:55:22,257 --> 01:55:26,409
@@ -6175,12 +6175,12 @@ Ora, ora...
 
 1360
 01:55:35,888 --> 01:55:38,113
-Olhe sÛ quem È.
+Olhe s√≥ quem √©.
 
 1361
 01:55:39,272 --> 01:55:43,513
 Thorin, filho de Thrain,
-filho de ThrÛr.
+filho de Thr√≥r.
 
 1362
 01:55:43,514 --> 01:55:46,739
@@ -6188,35 +6188,35 @@ Rei sob a Montanha.
 
 1363
 01:55:47,748 --> 01:55:51,777
-Opa! Eu esqueci que vocÍ
-n„o tem montanha.
+Opa! Eu esqueci que voc√™
+n√£o tem montanha.
 
 1364
 01:55:51,778 --> 01:55:53,591
-VocÍ n„o È rei.
+Voc√™ n√£o √© rei.
 
 1365
 01:55:53,592 --> 01:55:57,480
-O que faz de vocÍ
-um ninguÈm.
+O que faz de voc√™
+um ningu√©m.
 
 1366
 01:56:01,209 --> 01:56:02,960
-Eu conheÁo alguÈm
+Eu conhe√ßo algu√©m
 
 1367
 01:56:02,961 --> 01:56:05,846
-que pagaria um bom preÁo
-pela sua cabeÁa.
+que pagaria um bom pre√ßo
+pela sua cabe√ßa.
 
 1368
 01:56:06,924 --> 01:56:10,764
-SÛ a cabeÁa,
+S√≥ a cabe√ßa,
 sem corpo junto.
 
 1369
 01:56:12,071 --> 01:56:14,719
-Acho que vocÍ sabe
+Acho que voc√™ sabe
 de quem falo.
 
 1370
@@ -6225,28 +6225,28 @@ Um velho inimigo seu.
 
 1371
 01:56:21,029 --> 01:56:26,018
-Um orc p·lido
+Um orc p√°lido
 montado em um warg branco.
 
 1372
 01:56:27,042 --> 01:56:30,989
 Azog, o Profano,
-foi destruÌdo.
+foi destru√≠do.
 
 1373
 01:56:32,544 --> 01:56:35,239
 Ele foi morto em batalha
-h· muito tempo.
+h√° muito tempo.
 
 1374
 01:56:35,240 --> 01:56:39,591
-E acha que os dias de profanaÁ„o
+E acha que os dias de profana√ß√£o
 passaram?
 
 1375
 01:56:41,005 --> 01:56:43,479
 Mande uma mensagem
-para o orc p·lido.
+para o orc p√°lido.
 
 1376
 01:56:43,480 --> 01:56:46,363
@@ -6279,7 +6279,7 @@ Orcses imundos...
 
 1383
 01:58:10,862 --> 01:58:13,464
-s„o melhores que ossos secos,
+s√£o melhores que ossos secos,
 precioso.
 
 1384
@@ -6301,16 +6301,16 @@ E pouca carne.</i>
 
 1388
 01:58:52,900 --> 01:58:54,900
-<i>Comece pela cabeÁa.</i>
+<i>Comece pela cabe√ßa.</i>
 
 1389
 01:59:00,547 --> 01:59:04,151
-<i>O ch„o seco frio
-morde nossas m„os</i>
+<i>O ch√£o seco frio
+morde nossas m√£os</i>
 
 1390
 01:59:04,152 --> 01:59:07,254
-<i>e corrÛi nossos pÈs</i>
+<i>e corr√≥i nossos p√©s</i>
 
 1391
 01:59:07,900 --> 01:59:09,740
@@ -6318,7 +6318,7 @@ morde nossas m„os</i>
 
 1392
 01:59:09,741 --> 01:59:14,337
-<i>s„o como ossos antigos
+<i>s√£o como ossos antigos
 sem carne qualquer</i>
 
 1393
@@ -6328,7 +6328,7 @@ sem respirar,</i>
 
 1394
 01:59:18,100 --> 01:59:20,976
-<i>È bom para comer</i>
+<i>√© bom para comer</i>
 
 1395
 01:59:58,900 --> 02:00:02,904
@@ -6337,7 +6337,7 @@ precioso!
 
 1396
 02:00:02,905 --> 02:00:05,367
-Essa carne È boa de comer!
+Essa carne √© boa de comer!
 
 1397
 02:00:07,250 --> 02:00:09,247
@@ -6345,37 +6345,37 @@ Gollum! Gollum!
 
 1398
 02:00:10,980 --> 02:00:13,799
-Para tr·s, agora!
+Para tr√°s, agora!
 
 1399
 02:00:13,800 --> 02:00:17,440
 Estou lhe avisando.
-N„o se aproxime.
+N√£o se aproxime.
 
 1400
 02:00:19,090 --> 02:00:21,488
-Ele tem uma l‚mina Èlficas.
+Ele tem uma l√¢mina √©lficas.
 
 1401
 02:00:21,489 --> 02:00:23,654
-Mas ele n„o È um elfos.
+Mas ele n√£o √© um elfos.
 
 1402
 02:00:24,900 --> 02:00:26,750
-N„o È um elfos, n„o.
+N√£o √© um elfos, n√£o.
 
 1403
 02:00:27,450 --> 02:00:29,460
-O que È, precioso?
+O que √©, precioso?
 
 1404
 02:00:30,090 --> 02:00:31,881
-O que È isso?
+O que √© isso?
 
 1405
 02:00:31,882 --> 02:00:35,736
 Meu nome...
-È Bilbo Bolseiro.
+√© Bilbo Bolseiro.
 
 1406
 02:00:36,400 --> 02:00:38,183
@@ -6383,7 +6383,7 @@ Bolseiros?
 
 1407
 02:00:39,000 --> 02:00:42,913
-O que È um Bolseiros,
+O que √© um Bolseiros,
 precioso?
 
 1408
@@ -6393,7 +6393,7 @@ do Condado.
 
 1409
 02:00:47,251 --> 02:00:49,899
-NÛs gostamos de orcses,
+N√≥s gostamos de orcses,
 morcegoses e peixes,
 
 1410
@@ -6403,7 +6403,7 @@ hobbitses.
 
 1411
 02:00:53,850 --> 02:00:57,054
-… macio? Suculento?
+√â macio? Suculento?
 
 1412
 02:00:58,000 --> 02:01:00,324
@@ -6415,36 +6415,36 @@ Eu usarei isso se preciso!
 
 1414
 02:01:03,750 --> 02:01:06,133
-N„o quero problemas,
+N√£o quero problemas,
 entendeu?
 
 1415
 02:01:06,900 --> 02:01:10,133
-Mostre-me a saÌda,
+Mostre-me a sa√≠da,
 e eu vou embora.
 
 1416
 02:01:10,134 --> 02:01:12,299
-Por quÍ?
-Est· perdido?
+Por qu√™?
+Est√° perdido?
 
 1417
 02:01:12,300 --> 02:01:16,052
-Estou, e n„o quero mais estar
-o mais r·pido possÌvel.
+Estou, e n√£o quero mais estar
+o mais r√°pido poss√≠vel.
 
 1418
 02:01:16,053 --> 02:01:17,499
-NÛs conhece!
+N√≥s conhece!
 
 1419
 02:01:17,500 --> 02:01:19,513
-NÛs conhece caminho seguro
+N√≥s conhece caminho seguro
 para hobbitses.
 
 1420
 02:01:19,514 --> 02:01:21,549
-Caminho seguro na escurid„o.
+Caminho seguro na escurid√£o.
 
 1421
 02:01:21,550 --> 02:01:22,953
@@ -6452,17 +6452,17 @@ Calado!
 
 1422
 02:01:22,954 --> 02:01:26,289
-- Eu n„o disse nada.
-- N„o falei com vocÍ.
+- Eu n√£o disse nada.
+- N√£o falei com voc√™.
 
 1423
 02:01:26,290 --> 02:01:29,689
-Sim, nÛs falou, precioso.
-NÛs falou.
+Sim, n√≥s falou, precioso.
+N√≥s falou.
 
 1424
 02:01:29,690 --> 02:01:32,616
-Eu n„o sei qual È
+Eu n√£o sei qual √©
 a sua jogada, mas...
 
 1425
@@ -6471,12 +6471,12 @@ Jogada!
 
 1426
 02:01:34,738 --> 02:01:37,199
-NÛs adoramos jogar,
-n„o È, precioso?
+N√≥s adoramos jogar,
+n√£o √©, precioso?
 
 1427
 02:01:37,200 --> 02:01:40,603
-VocÍ gosta de jogos?
+Voc√™ gosta de jogos?
 Gosta de jogar?
 
 1428
@@ -6485,12 +6485,12 @@ Talvez.
 
 1429
 02:01:46,000 --> 02:01:50,799
-O que tem raÌzes,
-mas ninguÈm vÍ?
+O que tem ra√≠zes,
+mas ningu√©m v√™?
 
 1430
 02:01:50,800 --> 02:01:53,764
-… mais alta que ·rvores.
+√â mais alta que √°rvores.
 
 1431
 02:01:53,765 --> 02:01:58,077
@@ -6508,12 +6508,12 @@ Vamos jogar outra vez.
 
 1434
 02:02:06,363 --> 02:02:09,550
-Agora È sua vez.
-FaÁa-nos uma pergunta.
+Agora √© sua vez.
+Fa√ßa-nos uma pergunta.
 
 1435
 02:02:09,551 --> 02:02:11,857
-N„o!
+N√£o!
 Chega de enigmas!
 
 1436
@@ -6527,7 +6527,7 @@ Gollum! Gollum!
 
 1438
 02:02:17,860 --> 02:02:20,209
-N„o, n„o...
+N√£o, n√£o...
 
 1439
 02:02:20,210 --> 02:02:22,180
@@ -6535,19 +6535,19 @@ Eu quero jogar.
 
 1440
 02:02:22,181 --> 02:02:24,004
-SÈrio. Quero jogar.
+S√©rio. Quero jogar.
 
 1441
 02:02:24,005 --> 02:02:26,729
-Posso ver que vocÍ...
+Posso ver que voc√™...
 
 1442
 02:02:27,438 --> 02:02:29,135
-È muito bom nisso.
+√© muito bom nisso.
 
 1443
 02:02:30,080 --> 02:02:32,368
-Ent„o que tal...
+Ent√£o que tal...
 
 1444
 02:02:33,631 --> 02:02:35,425
@@ -6555,7 +6555,7 @@ competirmos com enigmas?
 
 1445
 02:02:36,200 --> 02:02:38,509
-SÛ nÛs dois.
+S√≥ n√≥s dois.
 
 1446
 02:02:38,510 --> 02:02:40,081
@@ -6563,7 +6563,7 @@ Sim!
 
 1447
 02:02:40,082 --> 02:02:42,899
-Sim, sÛ nÛs dois.
+Sim, s√≥ n√≥s dois.
 
 1448
 02:02:42,900 --> 02:02:45,011
@@ -6575,7 +6575,7 @@ E se eu ganhar,
 
 1450
 02:02:47,400 --> 02:02:50,599
-vocÍ me mostra a saÌda,
+voc√™ me mostra a sa√≠da,
 certo?
 
 1451
@@ -6590,16 +6590,16 @@ se ele perder?
 1453
 02:02:56,780 --> 02:03:00,131
 Se ele perder, precioso,
-nÛs come ele!
+n√≥s come ele!
 
 1454
 02:03:01,000 --> 02:03:04,276
 Se Bolseiro perder,
-nÛs come ele todo.
+n√≥s come ele todo.
 
 1455
 02:03:11,128 --> 02:03:12,528
-… justo.
+√â justo.
 
 1456
 02:03:17,220 --> 02:03:19,366
@@ -6617,7 +6617,7 @@ depois amassam
 
 1459
 02:03:31,615 --> 02:03:33,776
-e ent„o imÛveis ficam.
+e ent√£o im√≥veis ficam.
 
 1460
 02:03:44,250 --> 02:03:45,697
@@ -6633,11 +6633,11 @@ Sim, meu precioso!
 
 1463
 02:03:51,000 --> 02:03:56,929
-Mas nÛs sÛ temos nove.
+Mas n√≥s s√≥ temos nove.
 
 1464
 02:04:00,100 --> 02:04:01,595
-… a nossa vez.
+√â a nossa vez.
 
 1465
 02:04:02,200 --> 02:04:05,258
@@ -6645,7 +6645,7 @@ Sem voz, lamenta.
 
 1466
 02:04:05,259 --> 02:04:08,506
-Sem asas, esvoaÁa.
+Sem asas, esvoa√ßa.
 
 1467
 02:04:08,507 --> 02:04:11,530
@@ -6661,7 +6661,7 @@ Um minuto.
 
 1470
 02:04:23,300 --> 02:04:25,289
-NÛs sabe! NÛs sabe!
+N√≥s sabe! N√≥s sabe!
 
 1471
 02:04:25,290 --> 02:04:26,760
@@ -6673,7 +6673,7 @@ Vento.
 
 1473
 02:04:34,450 --> 02:04:36,271
-… o vento,
+√â o vento,
 com certeza!
 
 1474
@@ -6687,7 +6687,7 @@ Muito inteligente!
 
 1476
 02:04:43,000 --> 02:04:48,625
-Uma caixa sem dobradiÁas,
+Uma caixa sem dobradi√ßas,
 chave e tampa.
 
 1477
@@ -6697,35 +6697,35 @@ ela acondiciona.
 
 1478
 02:04:59,000 --> 02:05:01,209
-Sem dobradiÁas,
+Sem dobradi√ßas,
 sem chave.
 
 1479
 02:05:01,210 --> 02:05:02,699
-E ent„o?
+E ent√£o?
 
 1480
 02:05:02,700 --> 02:05:04,200
-… uma pegadinha!
+√â uma pegadinha!
 
 1481
 02:05:06,643 --> 02:05:09,206
 - Uma caixa...
-- VocÍ desiste?
+- Voc√™ desiste?
 
 1482
 02:05:09,207 --> 02:05:12,007
-DÍ-nos uma chance,
+D√™-nos uma chance,
 precioso!
 
 1483
 02:05:14,850 --> 02:05:16,250
-N„o!
+N√£o!
 
 1484
 02:05:25,629 --> 02:05:28,657
 Ovoses!
-S„o ovoses!
+S√£o ovoses!
 
 1485
 02:05:29,399 --> 02:05:32,202
@@ -6733,13 +6733,13 @@ Ovoses saborosos, sim?
 
 1486
 02:05:32,870 --> 02:05:36,582
-A vovÛ nos ensinou
-a sug·-los!
+A vov√≥ nos ensinou
+a sug√°-los!
 
 1487
 02:05:45,749 --> 02:05:48,545
 <i>Temos mais uma
-para vocÍ.</i>
+para voc√™.</i>
 
 1488
 02:05:49,653 --> 02:05:53,221
@@ -6747,11 +6747,11 @@ para vocÍ.</i>
 
 1489
 02:05:53,880 --> 02:05:58,307
-<i>Aves, feras, ·rvores e flora.</i>
+<i>Aves, feras, √°rvores e flora.</i>
 
 1490
 02:05:58,926 --> 02:06:03,374
-<i>O aÁo corrÛi,
+<i>O a√ßo corr√≥i,
 o ferro mordisca,</i>
 
 1491
@@ -6764,7 +6764,7 @@ o ferro mordisca,</i>
 
 1493
 02:06:10,380 --> 02:06:12,742
-SÛ um momento,
+S√≥ um momento,
 por favor.
 
 1494
@@ -6779,20 +6779,20 @@ Feras?
 
 1496
 02:06:17,679 --> 02:06:20,635
-¡rvores, flora...
-N„o sei essa.
+√Årvores, flora...
+N√£o sei essa.
 
 1497
 02:06:20,636 --> 02:06:23,402
-<i>… saboroso?</i>
+<i>√â saboroso?</i>
 
 1498
 02:06:24,048 --> 02:06:27,840
-<i>… delicioso?</i>
+<i>√â delicioso?</i>
 
 1499
 02:06:28,525 --> 02:06:30,454
-… tritur·vel?
+√â tritur√°vel?
 
 1500
 02:06:30,455 --> 02:06:31,857
@@ -6804,11 +6804,11 @@ Deixe-me pensar.
 
 1502
 02:06:38,087 --> 02:06:40,060
-Est· travado.
+Est√° travado.
 
 1503
 02:06:40,956 --> 02:06:45,812
-Bolseiros est· travado.
+Bolseiros est√° travado.
 
 1504
 02:06:49,239 --> 02:06:51,005
@@ -6820,24 +6820,24 @@ Tempo...
 
 1506
 02:06:56,550 --> 02:06:59,814
-A resposta È "tempo".
+A resposta √© "tempo".
 
 1507
 02:07:01,500 --> 02:07:03,253
-N„o foi t„o difÌcil.
+N√£o foi t√£o dif√≠cil.
 
 1508
 02:07:05,206 --> 02:07:07,012
-⁄ltima pergunta.
+√öltima pergunta.
 
 1509
 02:07:08,269 --> 02:07:11,480
-- ⁄ltima chance.
+- √öltima chance.
 - Certo.
 
 1510
 02:07:14,536 --> 02:07:16,476
-Pergunte a nÛs.
+Pergunte a n√≥s.
 
 1511
 02:07:17,787 --> 02:07:20,904
@@ -6850,26 +6850,26 @@ O que tenho em meu bolso?
 
 1513
 02:07:31,768 --> 02:07:33,999
-N„o È justo.
+N√£o √© justo.
 
 1514
 02:07:34,604 --> 02:07:38,810
-N„o È justo!
-… contra as regras!
+N√£o √© justo!
+√â contra as regras!
 
 1515
 02:07:39,443 --> 02:07:43,065
-- FaÁa outra pergunta.
-- N„o, n„o...
+- Fa√ßa outra pergunta.
+- N√£o, n√£o...
 
 1516
 02:07:43,066 --> 02:07:44,964
-VocÍ disse para eu fazer
+Voc√™ disse para eu fazer
 uma pergunta.
 
 1517
 02:07:44,965 --> 02:07:47,398
-Essa È a minha pergunta.
+Essa √© a minha pergunta.
 
 1518
 02:07:47,399 --> 02:07:50,248
@@ -6877,17 +6877,17 @@ O que tenho em meu bolso?
 
 1519
 02:07:51,266 --> 02:07:54,821
-TrÍs tentativas, precioso.
-Ele deve nos dar trÍs.
+Tr√™s tentativas, precioso.
+Ele deve nos dar tr√™s.
 
 1520
 02:07:54,822 --> 02:07:57,267
-TrÍs tentativas.
+Tr√™s tentativas.
 Muito bom. Comece.
 
 1521
 02:07:57,268 --> 02:07:58,831
-M„oses!
+M√£oses!
 
 1522
 02:07:58,832 --> 02:08:00,370
@@ -6902,12 +6902,12 @@ conchas, asas de morcego.
 1524
 02:08:08,543 --> 02:08:10,883
 Faca!
-N„o, cale a boca!
+N√£o, cale a boca!
 
 1525
 02:08:10,884 --> 02:08:12,795
 Errado de novo.
-⁄ltima tentativa.
+√öltima tentativa.
 
 1526
 02:08:12,796 --> 02:08:14,196
@@ -6924,12 +6924,12 @@ Ambas erradas.
 
 1529
 02:08:22,823 --> 02:08:24,307
-E ent„o...
+E ent√£o...
 
 1530
 02:08:26,030 --> 02:08:29,608
 Vamos. Ganhei o jogo.
-Prometeu me mostrar a saÌda.
+Prometeu me mostrar a sa√≠da.
 
 1531
 02:08:30,336 --> 02:08:32,542
@@ -6945,11 +6945,11 @@ O que ele tem no bolsos?
 
 1534
 02:08:45,086 --> 02:08:46,680
-Isso n„o lhe diz respeito.
+Isso n√£o lhe diz respeito.
 
 1535
 02:08:47,361 --> 02:08:49,741
-VocÍ perdeu.
+Voc√™ perdeu.
 
 1536
 02:08:49,742 --> 02:08:51,507
@@ -6965,20 +6965,20 @@ Perdi?
 
 1539
 02:09:04,488 --> 02:09:06,388
-Onde est·?
+Onde est√°?
 
 1540
 02:09:07,404 --> 02:09:09,197
-Onde est·?
+Onde est√°?
 
 1541
 02:09:09,919 --> 02:09:11,331
-N„o!
+N√£o!
 
 1542
 02:09:13,365 --> 02:09:18,207
-Onde est·?
-N„o! N„o!
+Onde est√°?
+N√£o! N√£o!
 
 1543
 02:09:19,175 --> 02:09:20,713
@@ -6986,21 +6986,21 @@ Perdido!
 
 1544
 02:09:20,714 --> 02:09:22,633
-MaldiÁ„o!
+Maldi√ß√£o!
 
 1545
 02:09:23,509 --> 02:09:27,576
-Meu precioso est· perdido!
+Meu precioso est√° perdido!
 
 1546
 02:09:29,017 --> 02:09:31,636
-- O que vocÍ perdeu?
-- N„o deve nos perguntar.
+- O que voc√™ perdeu?
+- N√£o deve nos perguntar.
 
 1547
 02:09:31,637 --> 02:09:35,609
-N„o interessa!
-N„o!
+N√£o interessa!
+N√£o!
 
 1548
 02:09:35,610 --> 02:09:37,911
@@ -7028,18 +7028,18 @@ Ele o roubou!
 
 1554
 02:10:27,264 --> 02:10:30,615
-<i>PescoÁos ser„o torcidos,
-ossos ser„o quebrados</i>
+<i>Pesco√ßos ser√£o torcidos,
+ossos ser√£o quebrados</i>
 
 1555
 02:10:30,616 --> 02:10:34,661
-<i>VocÍs ser„o espancados
+<i>Voc√™s ser√£o espancados
 e em forcas pendurados</i>
 
 1556
 02:10:34,662 --> 02:10:38,727
-<i>VocÍs morrer„o aqui
-e n„o os encontrar„o</i>
+<i>Voc√™s morrer√£o aqui
+e n√£o os encontrar√£o</i>
 
 1557
 02:10:38,728 --> 02:10:43,196
@@ -7048,8 +7048,8 @@ da cidade dos orcs</i>
 
 1558
 02:10:46,013 --> 02:10:50,004
-ConheÁo essa espada!
-… a Fende-Orc!
+Conhe√ßo essa espada!
+√â a Fende-Orc!
 
 1559
 02:10:50,627 --> 02:10:52,256
@@ -7057,8 +7057,8 @@ A Mordedora.
 
 1560
 02:10:52,257 --> 02:10:55,560
-A l‚mina que cortou
-mil pescoÁos!
+A l√¢mina que cortou
+mil pesco√ßos!
 
 1561
 02:10:55,561 --> 02:10:59,736
@@ -7068,7 +7068,7 @@ Matem!
 1562
 02:10:59,737 --> 02:11:03,829
 Matem todos!
-Cortem a cabeÁa dele!
+Cortem a cabe√ßa dele!
 
 1563
 02:11:33,300 --> 02:11:35,436
@@ -7102,7 +7102,7 @@ Sigam-me!
 
 1570
 02:12:18,019 --> 02:12:19,424
-R·pido!
+R√°pido!
 
 1571
 02:12:21,855 --> 02:12:23,388
@@ -7114,15 +7114,15 @@ Corram!
 
 1573
 02:12:53,127 --> 02:12:55,407
-… nosso!
+√â nosso!
 
 1574
 02:12:56,299 --> 02:12:59,844
-… nosso!
+√â nosso!
 
 1575
 02:13:23,485 --> 02:13:25,946
-Ladr„o!
+Ladr√£o!
 
 1576
 02:13:27,084 --> 02:13:30,187
@@ -7130,11 +7130,11 @@ Bolseiro!
 
 1577
 02:13:36,428 --> 02:13:38,468
-R·pido!
+R√°pido!
 
 1578
 02:13:39,671 --> 02:13:41,075
-N„o parem!
+N√£o parem!
 
 1579
 02:13:47,829 --> 02:13:49,233
@@ -7150,7 +7150,7 @@ Cortem as cordas!
 
 1582
 02:15:08,417 --> 02:15:09,817
-R·pido!
+R√°pido!
 
 1583
 02:15:22,918 --> 02:15:24,601
@@ -7168,7 +7168,7 @@ mago?
 
 1586
 02:16:48,991 --> 02:16:50,591
-… o suficiente.
+√â o suficiente.
 
 1587
 02:17:25,321 --> 02:17:27,532
@@ -7176,7 +7176,7 @@ Podia ter sido pior.
 
 1588
 02:17:30,421 --> 02:17:33,532
-SÛ pode ser brincadeira!
+S√≥ pode ser brincadeira!
 
 1589
 02:17:38,933 --> 02:17:40,533
@@ -7184,12 +7184,12 @@ Gandalf!
 
 1590
 02:17:45,234 --> 02:17:47,234
-Eles s„o muitos.
-N„o podemos lutar.
+Eles s√£o muitos.
+N√£o podemos lutar.
 
 1591
 02:17:47,235 --> 02:17:49,735
-SÛ uma coisa nos salvar·.
+S√≥ uma coisa nos salvar√°.
 A luz do dia.
 
 1592
@@ -7219,7 +7219,7 @@ Gollum! Gollum!
 
 1598
 02:18:21,940 --> 02:18:23,440
-R·pido.
+R√°pido.
 
 1599
 02:18:25,440 --> 02:18:26,940
@@ -7231,7 +7231,7 @@ Bolseiro!
 
 1601
 02:19:56,839 --> 02:19:59,676
-Ladr„o!
+Ladr√£o!
 
 1602
 02:19:59,677 --> 02:20:01,776
@@ -7239,7 +7239,7 @@ Maldito seja!
 
 1603
 02:20:01,777 --> 02:20:04,512
-NÛs odeia vocÍ
+N√≥s odeia voc√™
 para sempre!
 
 1604
@@ -7248,27 +7248,27 @@ Cinco, seis, sete, oito...
 
 1605
 02:20:20,695 --> 02:20:22,937
-Bifur, Bofur, s„o 10.
+Bifur, Bofur, s√£o 10.
 
 1606
 02:20:22,938 --> 02:20:25,695
-Fili e Kili, s„o 12.
+Fili e Kili, s√£o 12.
 
 1607
 02:20:25,696 --> 02:20:29,096
-E Bombur, d· 13 de vocÍs.
+E Bombur, d√° 13 de voc√™s.
 
 1608
 02:20:29,097 --> 02:20:31,132
-Onde est· Bilbo?
+Onde est√° Bilbo?
 
 1609
 02:20:31,910 --> 02:20:33,433
-Onde est· nosso hobbit?
+Onde est√° nosso hobbit?
 
 1610
 02:20:35,134 --> 02:20:37,045
-Onde est· nosso hobbit?
+Onde est√° nosso hobbit?
 
 1611
 02:20:38,246 --> 02:20:41,047
@@ -7282,12 +7282,12 @@ com Dori.
 
 1613
 02:20:42,948 --> 02:20:44,447
-N„o me culpe.
+N√£o me culpe.
 
 1614
 02:20:44,448 --> 02:20:46,148
-Onde vocÍ o viu
-pela ˙ltima vez?
+Onde voc√™ o viu
+pela √∫ltima vez?
 
 1615
 02:20:46,149 --> 02:20:49,049
@@ -7310,8 +7310,8 @@ e aproveitou.
 
 1619
 02:20:57,025 --> 02:20:58,925
-Ele n„o pensa em nada
-alÈm da cama macia
+Ele n√£o pensa em nada
+al√©m da cama macia
 
 1620
 02:20:58,926 --> 02:21:01,604
@@ -7320,20 +7320,20 @@ desde que saiu de casa.
 
 1621
 02:21:02,405 --> 02:21:04,605
-N„o veremos nosso hobbit
+N√£o veremos nosso hobbit
 outra vez.
 
 1622
 02:21:05,406 --> 02:21:06,906
-Ele j· est· longe.
+Ele j√° est√° longe.
 
 1623
 02:21:19,147 --> 02:21:20,549
-N„o.
+N√£o.
 
 1624
 02:21:21,189 --> 02:21:22,589
-Ele n„o est·.
+Ele n√£o est√°.
 
 1625
 02:21:26,051 --> 02:21:28,110
@@ -7342,7 +7342,7 @@ Bilbo Bolseiro...
 1626
 02:21:28,111 --> 02:21:31,011
 Nunca em minha vida
-fiquei t„o feliz em ver alguÈm.
+fiquei t√£o feliz em ver algu√©m.
 
 1627
 02:21:33,012 --> 02:21:35,112
@@ -7355,11 +7355,11 @@ dos orcs?
 
 1629
 02:21:37,314 --> 02:21:39,178
-TambÈm quero saber.
+Tamb√©m quero saber.
 
 1630
 02:21:47,579 --> 02:21:51,449
-Isso n„o importa.
+Isso n√£o importa.
 Ele voltou.
 
 1631
@@ -7372,7 +7372,7 @@ Eu quero saber.
 
 1633
 02:21:56,702 --> 02:21:58,502
-Por que vocÍ voltou?
+Por que voc√™ voltou?
 
 1634
 02:22:01,903 --> 02:22:05,103
@@ -7381,8 +7381,8 @@ Sempre soube.
 
 1635
 02:22:06,704 --> 02:22:08,804
-E est· certo.
-Eu sempre penso no Bols„o.
+E est√° certo.
+Eu sempre penso no Bols√£o.
 
 1636
 02:22:10,105 --> 02:22:11,605
@@ -7395,11 +7395,11 @@ Do meu jardim.
 
 1638
 02:22:16,707 --> 02:22:18,565
-L· È onde eu pertenÁo.
+L√° √© onde eu perten√ßo.
 
 1639
 02:22:18,566 --> 02:22:20,266
-… o meu lar.
+√â o meu lar.
 
 1640
 02:22:22,367 --> 02:22:24,067
@@ -7408,16 +7408,16 @@ porque...
 
 1641
 02:22:26,568 --> 02:22:29,368
-vocÍs n„o tem...
+voc√™s n√£o tem...
 um lar.
 
 1642
 02:22:30,069 --> 02:22:31,769
-Foi tomado de vocÍs.
+Foi tomado de voc√™s.
 
 1643
 02:22:34,970 --> 02:22:37,270
-Mas vou ajudar a recuper·-lo,
+Mas vou ajudar a recuper√°-lo,
 se puder.
 
 1644
@@ -7426,12 +7426,12 @@ se puder.
 
 1645
 02:23:02,376 --> 02:23:05,271
-<i>FaÁam-nos em pedaÁos!</i>
+<i>Fa√ßam-nos em peda√ßos!</i>
 
 1646
 02:23:10,972 --> 02:23:14,395
-- SaÌmos da panela fervendo...
-- Em direÁ„o ao fogo.
+- Sa√≠mos da panela fervendo...
+- Em dire√ß√£o ao fogo.
 
 1647
 02:23:14,396 --> 02:23:16,096
@@ -7439,8 +7439,8 @@ Corram. Corram!
 
 1648
 02:24:00,255 --> 02:24:02,279
-Subam nas ·rvores,
-todos vocÍs!
+Subam nas √°rvores,
+todos voc√™s!
 
 1649
 02:24:02,280 --> 02:24:04,645
@@ -7449,7 +7449,7 @@ Subam!
 
 1650
 02:24:16,231 --> 02:24:17,945
-Eles est„o vindo!
+Eles est√£o vindo!
 
 1651
 02:25:18,756 --> 02:25:20,633
@@ -7457,7 +7457,7 @@ Azog.
 
 1652
 02:25:26,151 --> 02:25:27,911
-<i>Est„o sentindo?</i>
+<i>Est√£o sentindo?</i>
 
 1653
 02:25:29,859 --> 02:25:32,457
@@ -7474,11 +7474,11 @@ tinha o mesmo cheiro...</i>
 
 1656
 02:25:47,113 --> 02:25:48,925
-N„o pode ser.
+N√£o pode ser.
 
 1657
 02:25:56,222 --> 02:25:57,974
-<i>Aquele È meu...</i>
+<i>Aquele √© meu...</i>
 
 1658
 02:25:58,673 --> 02:26:00,902
@@ -7502,7 +7502,7 @@ Segure firme, Dori!
 
 1663
 02:30:02,601 --> 02:30:04,665
-N„o!
+N√£o!
 
 1664
 02:30:16,203 --> 02:30:18,022
@@ -7510,8 +7510,8 @@ Thorin!
 
 1665
 02:30:37,157 --> 02:30:40,872
-<i>Traga-me a cabeÁa
-do an„o.</i>
+<i>Traga-me a cabe√ßa
+do an√£o.</i>
 
 1666
 02:31:30,055 --> 02:31:31,883
@@ -7535,16 +7535,16 @@ O pequenino.
 
 1671
 02:35:49,171 --> 02:35:50,807
-Est· tudo bem.
+Est√° tudo bem.
 
 1672
 02:35:51,604 --> 02:35:54,532
-Bilbo est· aqui.
-Est· a salvo.
+Bilbo est√° aqui.
+Est√° a salvo.
 
 1673
 02:36:04,728 --> 02:36:06,133
-VocÍ!
+Voc√™!
 
 1674
 02:36:09,533 --> 02:36:11,116
@@ -7556,46 +7556,46 @@ Estava tentando se matar?
 
 1676
 02:36:15,994 --> 02:36:18,464
-Eu n„o disse
-que vocÍ seria um fardo?
+Eu n√£o disse
+que voc√™ seria um fardo?
 
 1677
 02:36:19,688 --> 02:36:21,889
-Que n„o sobreviveria
+Que n√£o sobreviveria
 no Ermo?
 
 1678
 02:36:23,049 --> 02:36:25,659
-E que n„o tinha lugar para vocÍ
-entre nÛs.
+E que n√£o tinha lugar para voc√™
+entre n√≥s.
 
 1679
 02:36:30,872 --> 02:36:33,913
-Nunca estive t„o errado
+Nunca estive t√£o errado
 em toda minha vida.
 
 1680
 02:36:46,712 --> 02:36:48,708
 Desculpe por ter duvidado
-de vocÍ.
+de voc√™.
 
 1681
 02:36:48,709 --> 02:36:50,671
-Eu tambÈm teria duvidado
+Eu tamb√©m teria duvidado
 de mim.
 
 1682
 02:36:51,648 --> 02:36:54,469
-N„o sou herÛi
+N√£o sou her√≥i
 ou um guerreiro...
 
 1683
 02:36:56,664 --> 02:36:58,514
-Nem mesmo um ladr„o.
+Nem mesmo um ladr√£o.
 
 1684
 02:37:17,541 --> 02:37:19,922
-Aquilo È o que estou pensando?
+Aquilo √© o que estou pensando?
 
 1685
 02:37:35,559 --> 02:37:37,016
@@ -7603,12 +7603,12 @@ Erebor.
 
 1686
 02:37:38,045 --> 02:37:39,776
-A Montanha Solit·ria.
+A Montanha Solit√°ria.
 
 1687
 02:37:40,457 --> 02:37:44,459
-O ˙ltimo grande reino dos anıes
-na Terra-MÈdia.
+O √∫ltimo grande reino dos an√µes
+na Terra-M√©dia.
 
 1688
 02:37:47,447 --> 02:37:49,168
@@ -7620,22 +7620,22 @@ Um corvo!
 
 1690
 02:37:55,349 --> 02:37:57,856
-As aves est„o voltando
+As aves est√£o voltando
 para a Montanha!
 
 1691
 02:38:01,582 --> 02:38:05,048
 Aquilo, meu caro Oin,
-È um tordo.
+√© um tordo.
 
 1692
 02:38:06,633 --> 02:38:10,238
 Creio que seja um sinal.
-Um bom press·gio.
+Um bom press√°gio.
 
 1693
 02:38:10,239 --> 02:38:11,677
-VocÍ tem raz„o.
+Voc√™ tem raz√£o.
 
 1694
 02:38:12,535 --> 02:38:14,995
@@ -7645,5 +7645,5 @@ tenha passado.
 1695
 02:39:30,186 --> 02:39:33,351
 <b>[InSUBs]
-Qualidade È InSUBstituÌvel!</b>
+Qualidade √© InSUBstitu√≠vel!</b>
 
